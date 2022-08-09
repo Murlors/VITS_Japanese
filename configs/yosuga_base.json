@@ -7,7 +7,7 @@
     "learning_rate": 2e-4,
     "betas": [0.8, 0.99],
     "eps": 1e-9,
-    "batch_size": 16,
+    "batch_size": 32,
     "fp16_run": true,
     "lr_decay": 0.999875,
     "segment_size": 8192,
@@ -19,7 +19,7 @@
   "data": {
     "training_files":"filelists/train_filelist.txt",
     "validation_files":"filelists/val_filelist.txt",
-    "text_cleaners":["japanese_cleaners2"],
+    "text_cleaners":["japanese_cleaners"],
     "max_wav_value": 32768.0,
     "sampling_rate": 22050,
     "filter_length": 1024,
