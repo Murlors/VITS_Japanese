@@ -1,287 +1,1071 @@
-dataset/ayachi_nene/nen001_001.wav|0|はい？呼びました？
-dataset/ayachi_nene/nen002_020.wav|0|わかりました。ありがとうございます
-dataset/ayachi_nene/nen003_002.wav|0|保科君を待っていたんです。一緒に来て欲しいところがありまして
-dataset/ayachi_nene/nen005_023.wav|0|いいですか、過剰な気遣いは止めて下さい
-dataset/ayachi_nene/nen005_092.wav|0|と言いますか、その……あんまり見ないで下さい。本当に恥ずかしいんですから……
-dataset/ayachi_nene/nen006_049.wav|0|大きな声を出したら……また、波が……んんっ、くぅぅぅ
-dataset/inaba_meguru/meg007_029.wav|1|実は自分、モン猟が好きなんですよ。結構やり込んでるんですよ
-dataset/inaba_meguru/meg008_023.wav|1|くっつくのは好きな相手だけですってば。それとも……寧々先輩は、嫌ですか？
-dataset/inaba_meguru/meg008_087.wav|1|なんか意地になってきた！こうなったら絶対に行く！寧々先輩ともっと仲良くなるもんっ！
-dataset/inaba_meguru/meg009_051.wav|1|いや、不愉快ってわけじゃないので謝らないで下さい。その、手を握られただけで……変なことされたわけじゃないですから
-dataset/ayachi_nene/nen009_079.wav|0|外食をあまりしたことがないので、なんだかドキドキしますね
-dataset/ayachi_nene/nen010_043.wav|0|だから、見ないで下さいって、言ったのに……ありえないありえないありえないありえないありえないありえないありえないありえないありえないありえない
-dataset/inaba_meguru/meg010_043.wav|1|はい！
-dataset/ayachi_nene/nen011_044.wav|0|では戸隠先輩の相談は、越路さんを説得すること、でいいんですか？
-dataset/ayachi_nene/nen013_023.wav|0|え？あっ、ひあぁっ
-dataset/ayachi_nene/nen015_050.wav|0|まあ……そうですね。よほどの特殊な事情でもないと、見ず知らずの土地に引っ越すことは、欠片集めにとってデメリットでしかありませんからね
-dataset/ayachi_nene/nen016_040.wav|0|はい。一緒にパーティーに出席できるよう、頑張りましょう
-dataset/ayachi_nene/nen017_040.wav|0|だ、大丈夫ですっ
-dataset/ayachi_nene/nen018_027.wav|0|バンドの練習ですよね？
-dataset/ayachi_nene/nen019_032.wav|0|私、楽器については詳しくありませんが……それが無茶だということはわかります
-dataset/ayachi_nene/nen020_152.wav|0|そうなのです
-dataset/ayachi_nene/nen101_070.wav|0|でも……もし迷惑だと思ったときは、正直に言って下さい。我慢はしなくていいですから
-dataset/ayachi_nene/nen102_036.wav|0|一日休むぐらいで大げさですよ。ちゃんと連絡もしていたんですから
-dataset/inaba_meguru/meg102_006.wav|1|あ、自分が知ってるので任せて下さい
-dataset/inaba_meguru/meg103_029.wav|1|さすが寧々先輩、とっても素敵な答えです
-dataset/ayachi_nene/nen103_147.wav|0|……はい？
-dataset/ayachi_nene/nen103_246.wav|0|私、いやらしい、いつもよりもいやらしくなってる……はぁ、はぁ、はぁひっ、ひっ、ひっ、ぃぃぃぃぃぃぃっ
-dataset/ayachi_nene/nen104_064.wav|0|それに……喜んでもらえて、嬉しい……です
-dataset/inaba_meguru/meg104_037.wav|1|え？それは、別に悪い意味ではなくて……
-dataset/ayachi_nene/nen104_220.wav|0|それは…………………よ、よかった、です。また、したいです
-dataset/ayachi_nene/nen104_320.wav|0|ひっ、くぅぅ……んぁっ、んっ……んぅぅぅっ
-dataset/ayachi_nene/nen105_028.wav|0|いいんですか？保科君に遠回りさせてしまいますし……地元だと、久島先生みたいに目撃されるかもしれませんよ？
-dataset/ayachi_nene/nen105_128.wav|0|は、はい。よろしくお願いされました
-dataset/inaba_meguru/meg106_003.wav|1|そんな脅すようなこと言わないで下さいよ
-dataset/ayachi_nene/nen106_106.wav|0|やっぱり恥ずかしいです、こんなに口を大きく開けるなんて、ちょっと下品で。こんなの今までにしたこと――
-dataset/ayachi_nene/nen107_030.wav|0|そんなの、忘れることなんてできませんよ
-dataset/ayachi_nene/nen108_060.wav|0|これなら、制服は汚れたり、しませんよね？
-dataset/ayachi_nene/nen108_160.wav|0|………………
-dataset/inaba_meguru/meg109_003.wav|1|え？あ、そうですね……多分あったと思いますけど……
-dataset/ayachi_nene/nen111_017.wav|0|私たちが入学する前から存在していた部なんですよ？でも、今の部員は私だけですが
-dataset/ayachi_nene/nen111_117.wav|0|ようやく出会ったのに私に気付いてくれませんしっ、避けるようになりますしっ、果てはヘンタイを見るような目で見つめてきますしっ
-dataset/ayachi_nene/nen112_060.wav|0|え？でも、それじゃあ……クラスで反感を買っちゃうんですよ？
-dataset/ayachi_nene/nen112_161.wav|0|こういうこと……いちいち全部言わせないで下さい。もぅ、イジワル
-dataset/ayachi_nene/nen112_262.wav|0|んっ、んんっ……ぅぅぅ、あっ、ぁぁ……はぁ、はぁ、はぁぁぁ……んんン、んッ
-dataset/ayachi_nene/nen112_362.wav|0|んっ、んっ、んぅぅぅーーー……ぅぅぷあっ、あ、あ、あ、ダメ、もっと抱いて、強くギューって……あ、あ、ダメ、私……イくッ、イきますッ
-dataset/ayachi_nene/nen113_236.wav|0|でも……でも、あっ、あああぁぁ……気持ちよくて、いいです……とってもエッチな気持ちにもなって……あっ、あっ……んんぃぃぃッ！
-dataset/ayachi_nene/nen113_003.wav|0|ここに貼っても、構いませんよね？
-dataset/ayachi_nene/nen113_056.wav|0|あっ、しゅうじ君。あっちにもほら、クマのぬいぐるみがありますよ
-dataset/ayachi_nene/nen113_143.wav|0|ど、どうしたんですか？
-dataset/ayachi_nene/nen114_057.wav|0|……ぶぅぅ……
-dataset/ayachi_nene/nen114_144.wav|0|はい……ん、れおぉぉぉ……ん、ンンッ、んーーーーーーッッ
-dataset/ayachi_nene/nen115_081.wav|0|続けて下さい……はぁ、はぁ……んっ、早く、また奥をグリグリってぇ、して下さい、はぁ、はぁ、はぁ
-dataset/ayachi_nene/nen115_181.wav|0|え？いつもって言われても……こんな風に、おち●ちんでオナニーするなんて初めてですから……んぅぅぅ、ぁっ
-dataset/ayachi_nene/nen115_271.wav|0|みなさんは……本当に、楽しいですか？
-dataset/ayachi_nene/nen117_042.wav|0|何と言われましても……おはようのフェラチオ……ですよ？コッチも、おはようございます、ってコッチは早起きでしたけどね、れろれろ
-dataset/ayachi_nene/nen117_142.wav|0|いいれすよ……れろれろ、れるんっ……ちゅっ、ちゅぅぅ……ちゅばちゅば、んんっ、このままもう１回、れろろろ
-dataset/inaba_meguru/meg201_003.wav|1|だ、だってほら、こういうのってもっと有名な人がランクインするものだと思ってたし！
-dataset/inaba_meguru/meg202_017.wav|1|じゃ、決まりですね！さっそくどっかファミレスでも入りましょう
-dataset/ayachi_nene/nen203_010.wav|0|はい、それは残念ながら
-dataset/inaba_meguru/meg203_049.wav|1|だからお願いします、センパイ！
-dataset/inaba_meguru/meg203_120.wav|1|う、そうですね……ごめんなさい
-dataset/ayachi_nene/nen203_125.wav|0|………
-dataset/inaba_meguru/meg204_078.wav|1|ほら、自分って人付き合いべったりタイプじゃないですか。しかもその頃は今よりもっとそんな感じで
-dataset/inaba_meguru/meg205_019.wav|1|センパイだけに、その……打ち明けたかったんで……
-dataset/inaba_meguru/meg205_107.wav|1|あ、でも最近はやっぱりゲームの方が多いですよ。モン猟以外にも手を出してるんで
-dataset/ayachi_nene/nen206_047.wav|0|因幡さんに話せる内容かどうかが、まだわかりませんから
-dataset/inaba_meguru/meg206_100.wav|1|今の健康は、ちーちゃんにもらったものだったんだ
-dataset/inaba_meguru/meg207_049.wav|1|～～～っ
-dataset/inaba_meguru/meg209_008.wav|1|―――っっ
-dataset/inaba_meguru/meg209_105.wav|1|み、見えてないよね？これ、ギリギリ大丈夫だよね！？見えそうで見えないくらいに出来てるよね！？
-dataset/ayachi_nene/nen210_039.wav|0|お待たせしました
-dataset/inaba_meguru/meg211_023.wav|1|～～～～
-dataset/inaba_meguru/meg212_023.wav|1|い、いきなりすぎてビックリでしたけど……
-dataset/inaba_meguru/meg212_108.wav|1|その……これからも、いいですか？
-dataset/inaba_meguru/meg213_056.wav|1|そ、そうなんですか？
-dataset/inaba_meguru/meg214_034.wav|1|だから、それもわかる気がするって……
-dataset/inaba_meguru/meg214_134.wav|1|変な感じに、なっちゃ、あっううっ、くすぐったっ、みたいな、ふうっ、む、むずむずっ、するみたいなっ……や、やだぁっ
-dataset/inaba_meguru/meg214_234.wav|1|はああぁっ……あっああっ、あふぁ、あっんっんんっ……
-dataset/inaba_meguru/meg215_054.wav|1|うれひい、ちゅぷ、しぇんぱい、うれひい、んんんぅ、だからきすしたいんれふよぅ……んん……♪
-dataset/inaba_meguru/meg215_142.wav|1|い、言えません！そんなこと言えませんってば！
-dataset/inaba_meguru/meg215_237.wav|1|顔立ちっていうより、雰囲気ですかね？
-dataset/inaba_meguru/meg216_062.wav|1|本当に、めぐるに気持ちを伝えてくれる手になってくれちゃってますよぅ……
-dataset/inaba_meguru/meg216_163.wav|1|んっ、んんっ、んふぅうっ……んぶっ、ふっ、ふーーーっ……ンふぅぅーーーーー……っ
-dataset/inaba_meguru/meg216_263.wav|1|はあぁっ……はぁ、はあぁ、せん……ぱい……またイっちゃったぁ……
-dataset/inaba_meguru/meg217_064.wav|1|……はい、センパイ
-dataset/inaba_meguru/meg217_164.wav|1|ふああ、ぁっ……
-dataset/inaba_meguru/meg217_264.wav|1|っあ！？あっあ、ああっ！せんぱっ……ああぁっ、ああああっ、あああああああぁっ……！！
-dataset/inaba_meguru/meg218_042.wav|1|へ、へへへ……
-dataset/inaba_meguru/meg219_090.wav|1|ダメなわけないですよ……ん、じゅるっ、ちゅぶぶっ……むしろ、めぐるも口に出して欲しいです……
-dataset/inaba_meguru/meg219_190.wav|1|い、衣装、ハロウィン用じゃなくて、えっち専用になっちゃうかも知れませんけどね
-dataset/ayachi_nene/nen303_020.wav|0|…………
-dataset/inaba_meguru/meg308_007.wav|1|ある意味、センパイのためにやってあげてるんですからねっ
-dataset/ayachi_nene/nen315_010.wav|0|厚真さんは親しい友人の死を受け入れ、新しい友人との関係を築こうと必死でした……
-dataset/ayachi_nene/nen402_016.wav|0|相手のことを考えると、年上の女性の方が打ち明けやすいのではないかと思いまして
-dataset/ayachi_nene/nen406_007.wav|0|でも最近、私は回収を行っていないんです
-dataset/ayachi_nene/nen410_002.wav|0|あ、そのことですか。改まって、何かと思いました
-dataset/ayachi_nene/nen507_001.wav|0|見て下さい、保科君。ちゃんと、心の欠片が返ってきましたよ
-dataset/tomotake_yoshino/yos001_005.wav|2|ムラサメ……ちゃん？
-dataset/hitachi_mako/mak002_033.wav|3|では、いきますね
-dataset/tomotake_yoshino/yos003_014.wav|2|………
-dataset/murasame/mur003_052.wav|4|そ、そうか……な、ならいいのだ
-dataset/murasame/mur003_087.wav|4|氣力を消費するというか……なんかこう、精神的に疲れるのだ
-dataset/murasame/mur004_028.wav|4|パッと見る限りでは問題はなさそうだ。他の傷と同様、まだ痕が残っているが、すぐに消えてなくなるはずだ
-dataset/murasame/mur005_021.wav|4|――よっと
-dataset/hitachi_mako/mak006_024.wav|3|そうですね……やはり美味しい物がいいんじゃないでしょうか？
-dataset/hitachi_mako/mak007_016.wav|3|それを鵜呑みにしていいものか……。有地さんも頑固なところがありますからね
-dataset/tomotake_yoshino/yos008_015.wav|2|卵焼きの砂糖だって、封印してもいいと思っていますっ
-dataset/hitachi_mako/mak009_003.wav|3|てっきりお２人がそういうプレイをなさっているものだとばっかり
-dataset/tomotake_yoshino/yos009_073.wav|2|で、では…………コホン
-dataset/tomotake_yoshino/yos010_001.wav|2|なにかお困りごとですか？
-dataset/kurama_koharu/koh010_026.wav|5|こちらは、ほうじ茶ラテとプリンになります
-dataset/tomotake_yoshino/yos010_104.wav|2|………？なんですか？
-dataset/murasame/mur010_030.wav|4|……ぐぬぅ……
-dataset/hitachi_mako/mak011_017.wav|3|頭痛？
-dataset/kurama_koharu/koh012_003.wav|5|倒れた本棚の下敷きになったって聞いたけど……
-dataset/tomotake_yoshino/yos012_040.wav|2|それに、いつも頑張ってくれているのは茉子ですから
-dataset/hitachi_mako/mak013_069.wav|3|ちゃんと無事に戻ってきてくれたんですね！よかった……よかったぁ……
-dataset/tomotake_yoshino/yos013_074.wav|2|んん……ぅぅぅーーー……
-dataset/tomotake_yoshino/yos014_048.wav|2|部屋には茉子に残ってもらいますから
-dataset/tomotake_yoshino/yos014_070.wav|2|茉子？
-dataset/tomotake_yoshino/yos100_021.wav|2|え？いや、私が含まれると言いますか、むしろ私が迷惑の中心と言いますか……
-dataset/tomotake_yoshino/yos101_007.wav|2|え！？あ、ムラサメ様っ、これは、その――
-dataset/tomotake_yoshino/yos101_069.wav|2|そのフォローに見せかけて突き落すのは止めてもらえませんか。正直、どう受け止めればいいのか……微妙です
-dataset/hitachi_mako/mak102_007.wav|3|いえ、そんなことはないはずです。味見はワタシもしているんですから
-dataset/tomotake_yoshino/yos102_105.wav|2|かといって、私の勝手で肩書きを捨てることもできません。この地に根付いていますから
-dataset/hitachi_mako/mak103_013.wav|3|ありがとうございます
-dataset/tomotake_yoshino/yos103_088.wav|2|だから私は言いました。『謝らなくていいから。お母さんの責任じゃないから。私は悲観なんてしてないから』と
-dataset/tomotake_yoshino/yos104_031.wav|2|――ハッ！？あまりに突然のことで
-dataset/tomotake_yoshino/yos104_115.wav|2|自然な流れで間接キスをするならまだしも、わざわざペットボトルの縁にキスして間接キスとか……
-dataset/tomotake_yoshino/yos105_048.wav|2|それじゃあ……とりあえず、一番上にあるものから読んでみればいいかな
-dataset/tomotake_yoshino/yos106_066.wav|2|ぁっ……何もしないんですね……
-dataset/tomotake_yoshino/yos106_166.wav|2|まだ、胸がドキドキしています
-dataset/tomotake_yoshino/yos107_050.wav|2|とにかく今は教室に戻りましょう。変な雰囲気で教室を出てしまったから、みんな不審がっていますよ、きっと
-dataset/murasame/mur107_038.wav|4|寝言は寝て言え、ご主人
-dataset/tomotake_yoshino/yos108_028.wav|2|お帰りなさい
-dataset/tomotake_yoshino/yos108_102.wav|2|……愛しています。幸せに、なりましょうね
-dataset/tomotake_yoshino/yos110_015.wav|2|はい。それじゃあ私は、先に教室に戻っていますね
-dataset/tomotake_yoshino/yos110_056.wav|2|くっ、くぱぁ……っ！？
-dataset/hitachi_mako/mak110_040.wav|3|だといいんですが……
-dataset/tomotake_yoshino/yos110_225.wav|2|ああ……本当にこんな、カエルみたいに……
-dataset/tomotake_yoshino/yos110_325.wav|2|射精、ですよね。知ってますよ……あっあっあっ、はぁぁあ！
-dataset/tomotake_yoshino/yos111_059.wav|2|してません！最初なんですから、普通のセックスだけです！
-dataset/tomotake_yoshino/yos111_129.wav|2|んっ、んんぅぅ～～……ちゅっちゅっ、んっ、んん～～……ッ
-dataset/tomotake_yoshino/yos112_064.wav|2|それとも、えっちな女の子は……嫌いですか？
-dataset/tomotake_yoshino/yos112_164.wav|2|最後には、精液まで……あんなに出されたら……
-dataset/tomotake_yoshino/yos112_264.wav|2|本当にえっちなんですから
-dataset/tomotake_yoshino/yos113_065.wav|2|……本当にそうなら、嬉しいです……ふふ
-dataset/tomotake_yoshino/yos113_165.wav|2|んんんーーー……っ、んっ、んぐぅ……！んふぅーっ！んふぅーっ！んっ、んっ、んんんん……ッッ！
-dataset/tomotake_yoshino/yos113_265.wav|2|あああっ、そこ、そこぉ！ぐりぐりぃ……あぁあぁぁあ……ぐりぐりこしゅられたら、イっちゃう、またイきますぅ
-dataset/tomotake_yoshino/yos115_013.wav|2|でも……ちょっと、思っていることがあるんです
-dataset/tomotake_yoshino/yos115_111.wav|2|きゃああっ、きゅ、急にめくらないで下さい
-dataset/tomotake_yoshino/yos115_211.wav|2|んぁあっ、あっ、ああああああぁぁぁぁぁぁぁあぁああーーーーーーー……ッッ！
-dataset/murasame/mur201_005.wav|4|実はご主人に、伝えておかねばならんことがある
-dataset/hitachi_mako/mak201_038.wav|3|とはいえ、芳乃様にあんなにお願いされては……しかも、今さら嘘だなんて言えない……ッ
-dataset/hitachi_mako/mak201_102.wav|3|ワタシが？告白ですか？そんな物好き、いるわけありませんよ
-dataset/tomotake_yoshino/yos202_023.wav|2|大体、こっちのことは気にせず、ゆっくりしてって言ってるでしょ
-dataset/hitachi_mako/mak202_124.wav|3|違いますよ、そんなことはされていません
-dataset/hitachi_mako/mak202_225.wav|3|……あっ……
-dataset/tomotake_yoshino/yos203_003.wav|2|ふふ、とっても元気で可愛らしいですね
-dataset/tomotake_yoshino/yos203_025.wav|2|常陸家に対する復讐で呪っているのなら、その目的は……
-dataset/murasame/mur204_008.wav|4|まあ、引きこもっておっては、恋ができぬのも事実だ
-dataset/hitachi_mako/mak204_084.wav|3|……はい？
-dataset/hitachi_mako/mak205_041.wav|3|お昼ももう終わる時間ですからね。もう少し前なら、お昼を食べる人もいたと思うんですが……
-dataset/hitachi_mako/mak205_141.wav|3|でしたら、どうぞ。美味しいですよ。あ～～ん
-dataset/hitachi_mako/mak205_240.wav|3|それは、見栄を張ってしまっただけですから
-dataset/murasame/mur206_001.wav|4|それで、でーとの方はどうだったのだ？
-dataset/hitachi_mako/mak206_057.wav|3|はひっ、ぁっ、ぁっ、ぁぁあっ……んんッ、んんぁー……ッ
-dataset/hitachi_mako/mak206_143.wav|3|……芳乃様、まさか……いや、でもそんなはずない……うん、ないですよね
-dataset/hitachi_mako/mak206_224.wav|3|まだワタシに取り憑いたまま……なんですね
-dataset/hitachi_mako/mak207_081.wav|3|どうかしたんですか……？突然そんなこと
-dataset/hitachi_mako/mak207_154.wav|3|あっ、ひぃんっ……、耳、ダメですよ……やっ、あぁぁっ
-dataset/hitachi_mako/mak207_254.wav|3|あっ、はぁ……はぁ……どうしましょう。そ、想像以上に、痛いです……
-dataset/murasame/mur207_025.wav|4|真面目な話と言ったであろう！茉子に憑りついておる獣の話だ！
-dataset/hitachi_mako/mak208_059.wav|3|こうして２人きりの幸せをワタシが感じれば、きっと気付いてくれるんじゃないかなって
-dataset/hitachi_mako/mak208_154.wav|3|………
-dataset/hitachi_mako/mak208_254.wav|3|はぁー……はぁー……奥で……ワタシの身体の奥で、その温もりを感じさせて下さい……
-dataset/hitachi_mako/mak208_354.wav|3|そんな風に思ってもらえたなら、なによりです
-dataset/hitachi_mako/mak209_073.wav|3|あは、冗談ですよ。身体の方はちょっぴり大変ではありましたが……愛されてると実感できて……幸せでしたから
-dataset/tomotake_yoshino/yos209_011.wav|2|きゃっ！？
-dataset/hitachi_mako/mak210_003.wav|3|はい。すみません、ワタシがワガママを言ったせいで、事態がこんなに大きくなってしまって
-dataset/hitachi_mako/mak210_087.wav|3|んふふ……可愛い……んむっ、そんな可愛い顔されると……んむ、ぢゅるるるるっ……ぢゅぷぷっ
-dataset/hitachi_mako/mak210_187.wav|3|熱くなってる、トロトロのアソコに……早く、ぁぁ、早くぅ……んんっ
-dataset/hitachi_mako/mak210_287.wav|3|それは……ワタシも同じ気持ちですが……でもまさか、あんなにいっぱい……しかも３回も
-dataset/hitachi_mako/mak211_077.wav|3|あ、あは……本当ですね。先っぽが膨らんで……まっかっか……はぁ、はぁ……ぁぁ、すごい
-dataset/hitachi_mako/mak211_177.wav|3|あっ、あっ、あっ、擦れてるっ、お腹の裏、こすれて……るっ、んんんぅぅぅぅーーーんっ！
-dataset/kurama_koharu/koh301_001.wav|5|あ、お兄ちゃん、もう食べようとしてるー
-dataset/murasame/mur301_087.wav|4|穂織にはまつりごとが多いからな、神主の出番は割とある
-dataset/tomotake_yoshino/yos302_012.wav|2|客人として、滞在してくれればいいんです
-dataset/murasame/mur302_090.wav|4|いや、吾輩を買い物に付き合わせるという発想がそもそも変だ
-dataset/tomotake_yoshino/yos303_009.wav|2|いっしょに頑張ろうね、茉子
-dataset/tomotake_yoshino/yos303_032.wav|2|有地さん、ふざけすぎですよ
-dataset/murasame/mur304_021.wav|4|茉子の料理は美味しいし、なかなか魅力的な提案ではあるが
-dataset/murasame/mur305_027.wav|4|ご主人、どうした？ちょっと浮かれておるな
-dataset/murasame/mur305_105.wav|4|では、これからどうする、ご主人
-dataset/murasame/mur305_172.wav|4|吾輩がスバッと斬ってやるぞ
-dataset/murasame/mur306_029.wav|4|だてに、年はとっておらぬ！
-dataset/murasame/mur306_090.wav|4|ご主人のことを考えるだけで、胸が苦しくなる。ずっと触れていたくなる
-dataset/murasame/mur306_190.wav|4|ご主人が、他の女と仲良くしてるのを見ると、平静でおれん
-dataset/murasame/mur306_290.wav|4|むしろ、忘れられないくらい、強くお主を刻んでくれ
-dataset/murasame/mur307_022.wav|4|ん？
-dataset/hitachi_mako/mak307_016.wav|3|そうですね、それがわからなければ至急、身体からは出ていただかないといけません
-dataset/hitachi_mako/mak308_015.wav|3|これはこれは、ワタシとしたことが
-dataset/murasame/mur309_011_ref.wav|4|礼ならさんざん皆から言ってもらった
-dataset/murasame/mur309_115.wav|4|そ、そうか、良かった……
-dataset/murasame/mur309_215.wav|4|む、ご主人……
-dataset/murasame/mur309_311.wav|4|それだけで、吾輩は、ご主人を尊敬できるのだ
-dataset/kurama_koharu/koh310_012.wav|5|はい、お兄ちゃん
-dataset/murasame/mur310_115.wav|4|またお休みの接吻をしてやるから、床に入れ！
-dataset/hitachi_mako/mak310_032.wav|3|違いますよ！本当にたまたま聞いてしまっただけです！
-dataset/murasame/mur310_259.wav|4|ご主人なら、いくらでも他の女と幸せに――
-dataset/murasame/mur311_043.wav|4|この手では、上手くいくものもいかんぞ、ご主人
-dataset/murasame/mur312_005.wav|4|そうか、では参るか
-dataset/murasame/mur312_097.wav|4|おお、ご主人の背中は広いのう
-dataset/tomotake_yoshino/yos313_029.wav|2|何か質問はありますか？
-dataset/murasame/mur313_092.wav|4|……
-dataset/murasame/mur314_014.wav|4|ご主人覚えておけ、玄十郎はつんでれ属性なのだ
-dataset/murasame/mur314_100.wav|4|は、はしたない娘になってしまった……！
-dataset/murasame/mur314_200.wav|4|んっ、あっ、で、出てる、はぁ、はぁ……
-dataset/murasame/mur317_007.wav|4|ん？どうした、ご主人元気がないぞ
-dataset/murasame/mur317_107.wav|4|あはははは！
-dataset/murasame/mur317_208.wav|4|吾輩と繋がろう、ご主人
-dataset/murasame/mur317_308.wav|4|吾輩に追い抜かれた者は、後で神罰が下るぞ？
-dataset/tomotake_yoshino/yos414_023.wav|2|え？相変わらず、激しく反応してますけど
-dataset/murasame/mur415_044.wav|4|正直、吾輩にもまったく想像できん
-dataset/murasame/mur417_004.wav|4|いや、以前、レナが操られていたときと様子が似ておったからな
-dataset/murasame/mur418_011.wav|4|ええい、茶化すでない！ご主人が報告したのだぞ？
-dataset/murasame/mur419_004.wav|4|羨ましいのう、茉子……羨ましいのう
-dataset/tomotake_yoshino/yos419_040.wav|2|……～～っ、……～っ
-dataset/tomotake_yoshino/yos420_021.wav|2|そんなの、レナさんはとっくに穂織の一員で、私達の……お、お友達じゃないですか
-dataset/murasame/mur423_003.wav|4|妖異を祓い、たとえ折られても再生するのも納得であるな
-dataset/hitachi_mako/mak424_019.wav|3|ええ、ですがお覚悟の程をお聞きしたいのです
-dataset/tomotake_yoshino/yos425_035.wav|2|もちろん、叢雨丸の力にばかり頼るつもりはありません
-dataset/kurama_koharu/koh501_032.wav|5|本わらび粉で作ったわらび餅だって！
-dataset/kurama_koharu/koh503_036.wav|5|でもね、お兄ちゃんが残ってくれて、一緒にアルバイトできて本当に嬉しいよ
-dataset/kurama_koharu/koh504_051.wav|5|よかったね、お兄ちゃんをアルバイトに誘って
-dataset/kurama_koharu/koh505_037.wav|5|………
-dataset/kurama_koharu/koh506_068.wav|5|巫女姫様に、常陸先輩に、レナ先輩……他にもいっぱい……はぁぁぁ……
-dataset/kurama_koharu/koh508_030.wav|5|そうだといいけど……やっぱり胸がないとお兄ちゃんも損だと思うよね？
-dataset/kurama_koharu/koh511_048.wav|5|……もぐ……もぐ……
-dataset/kurama_koharu/koh511_148.wav|5|んぁぁ、はぁぁ……お兄ちゃん、今、声を漏らしてた……すごい……本当だったんだ
-dataset/kurama_koharu/koh511_248.wav|5|しびれるっ……あっあっあっ、身体が、またしびれちゃぅよぉ……はぁ、はぁ、んんんっ
-dataset/kurama_koharu/koh511_348.wav|5|あっ、はぁ……はぁ……はぁ……んんっ、んんーーー……
-dataset/kurama_koharu/koh512_089.wav|5|んっ、ンんん……ッッ
-dataset/kurama_koharu/koh513_029.wav|5|え？広げ……あっ、ちょっと、お兄ちゃん……！？
-dataset/kurama_koharu/koh513_129.wav|5|んんぃぃぃぃいいぃぃぃッッ！あっあっあっ、なんで、なんでぇぇ……お兄ちゃんのおち●ちん、どんどん大きくなってない？
-dataset/arihara_nanami/nan000_028.wav|6|仕方ないなぁ……今日は補習でしょう。このままだと遅刻しちゃうよ
-dataset/arihara_nanami/nan001_018.wav|6|あっ
-dataset/arihara_nanami/nan001_118.wav|6|あっ、遊んでるわけじゃなくて……ホントっ、もうむりなのぉ……ッッ
-dataset/arihara_nanami/nan002_047.wav|6|さとる君のバカ、アホー……転入初日から、こんなことするなんて……勘違いされた。絶対に勘違いされたよ
-dataset/arihara_nanami/nan004_026.wav|6|だから遊びじゃなくって……み、見てないで、助けっ……ひぃぃんっ、お兄ちゃぁぁん
-dataset/arihara_nanami/nan007_029.wav|6|急に真面目ぶる……
-dataset/arihara_nanami/nan010_001.wav|6|あっ、さとる君
-dataset/arihara_nanami/nan012_042.wav|6|………。さとる君に言われたくないなー。毎日わたしに起こされてたくせにー
-dataset/arihara_nanami/nan103_022.wav|6|５・４・３・２・１・今っ！
-dataset/arihara_nanami/nan108_051.wav|6|気になるのは、やっぱりここ。セキュリティと研究棟の構造に差があるんだよ
-dataset/arihara_nanami/nan200_005.wav|6|もしかして何か任務？
-dataset/arihara_nanami/nan201_060.wav|6|道の真ん中で考え事なんて危ないなぁ。一体どうしたの？
-dataset/arihara_nanami/nan201_165.wav|6|もぉ……明日からどんな顔して、さとる君に会えばいいの？
-dataset/arihara_nanami/nan202_103.wav|6|うん。セキュリティも全部戻ってる。罠じゃないなら、校舎の中にはわたしたちしかいないはずだよ
-dataset/arihara_nanami/nan203_008.wav|6|ちさきちゃん、いつからそこに……っ！？
-dataset/arihara_nanami/nan203_109.wav|6|いいよ、これぐらい
-dataset/arihara_nanami/nan203_210.wav|6|うん、それは知ってる
-dataset/arihara_nanami/nan204_014.wav|6|そうなんだよねぇ……
-dataset/arihara_nanami/nan204_115.wav|6|はぁ……なんか上手くいかないなぁ
-dataset/arihara_nanami/naj204_027.wav|6|……え？
-dataset/arihara_nanami/nan205_083.wav|6|射精を
-dataset/arihara_nanami/nan205_184.wav|6|ひぁあぁぁッ！奥っ、奥が、ビリビリって……ぁっ、あっ！お兄ちゃん……お兄ちゃん……っ！
-dataset/arihara_nanami/nan206_052.wav|6|お待たせ、お兄ちゃん
-dataset/arihara_nanami/nan207_037.wav|6|どう？痛くない？
-dataset/arihara_nanami/nan207_137.wav|6|んんっ、んんーーっ！んじゅっ、じゅるじゅる……じゅぷぷぷっ
-dataset/arihara_nanami/nan208_003.wav|6|んー……今日も、いい天気だね
-dataset/arihara_nanami/nan208_103.wav|6|……だね
-dataset/arihara_nanami/nan210_020.wav|6|それに、餃子の時に込めてるのは、大抵の場合は怒りだよ
-dataset/arihara_nanami/nan210_121.wav|6|もしかして、見てるだけでも……イっちゃったりする？
-dataset/arihara_nanami/nan210_221.wav|6|はぁ……はぁ……お兄ちゃん、気持ちよかった？
-dataset/arihara_nanami/nan210_318.wav|6|すー……すー……んっ、んんー？お兄ちゃん……？
-dataset/arihara_nanami/nan211_060.wav|6|こんな風に動けばいいのかな？知識としては知ってるけど……実践は初めてだから
-dataset/arihara_nanami/nan211_160.wav|6|はぁ、はぁ……わたしも幸せ、大好きなお兄ちゃんを、体の奥まで感じられるの……好き……しあわせぇ、んんんッッ
-dataset/arihara_nanami/nan212_044.wav|6|はぁ、はぁ……はぁ、はぁ……お兄ちゃん、ちゃんと見えてる？
-dataset/arihara_nanami/nan212_145.wav|6|もっと……もっと、して欲しい。お兄ちゃんに、気持ちよくして欲しい……はぁ、はぁ、はぁ……
-dataset/arihara_nanami/nan304_008.wav|6|これを挿してもらえさえすれば、わたしの端末から遠隔でハッキングできるから
-dataset/arihara_nanami/nan306_017.wav|6|明日の日中って手もないではないけどね。でも、それだと２人揃って授業を抜け出すことになるでしょ
-dataset/arihara_nanami/nan309_008.wav|6|……何やってんの？
-dataset/arihara_nanami/nan402_006.wav|6|そ、そうじゃなくてもっ、こう、見えないように紙袋に入れるとかっ
-dataset/arihara_nanami/nan414_007.wav|6|わ、わたしも共犯だから。お兄ちゃんだけ怒らないでっ
-dataset/arihara_nanami/nan502_014.wav|6|あっ、さとる君
-dataset/arihara_nanami/nan503_029.wav|6|……ふぅ。これで、傷はちゃんと消えたかな。まだ痛みが残ってる？
+yosuga_wav/Amatsume_Akira/AK020604.wav|1|あっ、デザート！　デザート食べなきゃ。
+yosuga_wav/Amatsume_Akira/AK020968.wav|1|優しいね、ハル君..
+haruka_wav/Migiwa_Kazuha/KA100014.wav|3|むっ、誤魔化さないで！
+yosuga_wav/Kasugano_Sora/SR010723.wav|0|...あ、もう上がったの？　冷たいもの、飲む？
+yosuga_wav/Migiwa_Kazuha/KA041275.wav|3|あなたを振り回して、勝手な事言って、傷つけてるのはわかってる。
+haruka_wav/Ifukube_Yahiro/YH010025.wav|6|ちゃっちゃと済ませたら、ジュースも追加してやるよ。
+yosuga_wav/Nogisaka_Motoka/MT051586.wav|4|今だけ、だからっ..あっ、エッチに、感じてる、声..聞かせるの、ひんっ、今、だけよ..いっ、はんぅっ..
+yosuga_wav/Amatsume_Akira/AK021710.wav|1|あんまり飲めないから大で！
+haruka_wav/Amatsume_Akira/AK020133.wav|1|はいはーい、いいんちょーバンザーイってして。
+yosuga_wav/Kasugano_Sora/SR011091.wav|0|気にしなくていいじゃない。
+yosuga_wav/Migiwa_Kazuha/KA020291.wav|3|隣町でも良いし、なんなら一泊出来るところとか。
+yosuga_wav/Amatsume_Akira/AK050003.wav|1|こんにちはっ、初佳お姉ちゃん。さっきから何してたの？　隠れんぼ？　何か面白そうだったよ？
+haruka_wav/Amatsume_Akira/AK020122.wav|1|うん、わかったー！
+haruka_wav/Kuranaga_Kozue/KO021134.wav|5|ええ、暑い日が続いてますからね。ウチもアイスの消費が早くて早くて..穹さんはアイス好きですか？
+haruka_wav/Nogisaka_Motoka/MT030035.wav|4|あっ、私が一緒にデュエットしてあげようか？
+yosuga_wav/Ifukube_Yahiro/YH050039.wav|6|んな、めんどくせー事すんなっ、来たんだったらとっとと用件済ませろ。
+haruka_wav/Kasugano_Sora/SR000365.wav|0|うんっ..平気..ハルこそ凄いよ..さっき出したばっかりなのに、凄く固いの..
+yosuga_wav/Amatsume_Akira/AK020837.wav|1|んふっ、カズちゃんは柔らかいね。おっぱいも大きいし。
+haruka_wav/Kasugano_Sora/SR000473.wav|0|むっ...
+yosuga_wav/Migiwa_Kazuha/KA040564.wav|3|そ、そんなの、初めてなんだからわかるわけないでしょ！
+haruka_wav/Kasugano_Sora/SR020238.wav|0|逃げてるだけの人に..説教なんかされたくない。
+yosuga_wav/Migiwa_Kazuha/KA020016.wav|3|あっ....
+yosuga_wav/Amatsume_Akira/AK020156.wav|1|今度おやつ持ってきてよ。パンの耳が好きだから、それあげたらハル君のことも覚えてくれると思うよ。
+haruka_wav/Amatsume_Akira/AK020039.wav|1|うんっ！
+yosuga_wav/Kasugano_Sora/SR030108.wav|0|くっ....
+yosuga_wav/Kasugano_Sora/SR010506.wav|0|..何やってんの..
+yosuga_wav/Amatsume_Akira/AK020187.wav|1|でも、わかるよー。なんかボタン一つで上からどすんって降りてくるような機械があればいいのにね。
+haruka_wav/Amatsume_Akira/AK030030.wav|1|お疲れ様ー！！　すっごく上手だったよハルくーん！ さすが都会っ子だね！　ケータイとカラオケとブログは得意みたいなー！？
+haruka_wav/Ifukube_Yahiro/YH010458.wav|6|ったく、まともに付き合ってたらこっちが疲れるだけかよ..
+yosuga_wav/Nogisaka_Motoka/MT050448.wav|4|ふんっ！　せいっ！　はいっ！　それっ！
+yosuga_wav/Kasugano_Sora/SR011390.wav|0|気持ちが通じ合ったことが幸せで..傍にいるだけで安らぎを感じた。
+yosuga_wav/Kasugano_Sora/SR011413.wav|0|だけど、私はわかってしまった。
+yosuga_wav/Migiwa_Kazuha/KA040891.wav|3|あっ、んはっ..はるかっ、ああっ、はるかぁっ....
+yosuga_wav/Nogisaka_Motoka/MT051392.wav|4|はっきりしてるのは、手元の携帯だけ。
+yosuga_wav/Ifukube_Yahiro/YH020030.wav|6|んな、あたしゃ孫って歳でもないっすよ。 瑛、適当に茶菓子を店のもんから開けてくれ。
+yosuga_wav/Migiwa_Kazuha/KA010092.wav|3|ひっどぉーい！　お返しよー！
+haruka_wav/Kuranaga_Kozue/KO000053.wav|5|それに今日だって..春日野君が穹さんとのことをみんなに伝えようとしたときに..私は..私は...
+yosuga_wav/Kasugano_Sora/SR010390.wav|0|あの時からハルは..ずっと好きだったの？
+yosuga_wav/Amatsume_Akira/AK021925.wav|1|あのね..あたしおじいちゃんに怒られたことがあるの。
+yosuga_wav/Amatsume_Akira/AK020363.wav|1|えっと..そこだよ、クマゼミかなあれは。
+yosuga_wav/Amatsume_Akira/AK040439.wav|1|ハル君、カズちゃんをよろしくね！
+haruka_wav/Kuranaga_Kozue/KO021152.wav|5|（だ、だから、お願いだから何とか言ってくださーい！！ 無言の圧迫が一番堪えるんですぅ～～～～～～！！）
+yosuga_wav/Yorihime_Nao/NO031915.wav|2|...どうしたの？　何か気になる本でもあった？
+yosuga_wav/Nogisaka_Motoka/MT051186.wav|4|悠くんがイヤじゃなかったら..続き、しない？
+yosuga_wav/Kasugano_Sora/SR011563.wav|0|..あ、当たり前のこと..聞かないで...
+yosuga_wav/Yorihime_Nao/NO000068.wav|2|うん。では失礼して..
+yosuga_wav/Amatsume_Akira/AK040152.wav|1|あたしも見たー。今日は車で登校みたいだねー。
+yosuga_wav/Yorihime_Nao/NO030710.wav|2|大丈夫？　ゆっくり息継ぎすれば、大丈夫だよっ？
+yosuga_wav/Kasugano_Sora/SR030314.wav|0|っくっ..ハルっ...
+yosuga_wav/Amatsume_Akira/AK030024.wav|1|いただきまーす。あむっ！　んぅぅぅっ！　美味しいねっ？
+haruka_wav/Kasugano_Sora/SR000747.wav|0|んぶっ..ちゅぶっ..んーっ..んはぁっ...
+yosuga_wav/Yorihime_Nao/NO030416.wav|2|あ、はるちゃん、今終わり？
+yosuga_wav/Yorihime_Nao/NO031256.wav|2|はぁーるちゃん！　ごぉめんゴメン！
+yosuga_wav/Migiwa_Kazuha/KA040550.wav|3|..そんなに広い神社でもないから、適当に回ってたらそのうち見つかるわ。
+yosuga_wav/Amatsume_Akira/AK021261.wav|1|ハル君は都会育ちだから、やっぱり向こうの生活が懐かしい？
+haruka_wav/Kuranaga_Kozue/KO021628.wav|5|おおー、見事なまでに誰もいません！　 やりましたね！　貸し切りですよ、春日野君！
+yosuga_wav/Amatsume_Akira/AK000050.wav|1|じゃあ次あたしー！　ん～っっっっ！！　えいっ！！
+haruka_wav/Ifukube_Yahiro/YH011236.wav|6|じゃあ、今度も我慢してくれよ..んっ..
+yosuga_wav/Yorihime_Nao/NO010328.wav|2|ふふっ、ほらっ、倉永さんは？　なにかリクエストはないの？
+yosuga_wav/Migiwa_Kazuha/KA020472.wav|3|うっ！？　だ、黙って見てたんですか？　いやらしい！！
+yosuga_wav/Amatsume_Akira/AK020090.wav|1|ううん、これぐらいお安いご用だって。あたしもハル君達の役に立てて嬉しいよっ。
+yosuga_wav/Kasugano_Sora/SR030231.wav|0|..でもやっぱり嫌..嫌なの！
+haruka_wav/Amatsume_Akira/AK100012.wav|1|あれ、趣味とか通勤時間とか、得意科目とか書かなくていい の？
+yosuga_wav/Ifukube_Yahiro/YH050100.wav|6|包丁持ち出された時はさすがに焦ったしなー。
+yosuga_wav/Migiwa_Kazuha/KA020182.wav|3|“開闢新地”です。
+haruka_wav/Kuranaga_Kozue/KO021167.wav|5|うぅ～、もしかして私..欲求不満が溜まってるのかな？
+yosuga_wav/Amatsume_Akira/AK020876.wav|1|お店が近所にあったら、毎日一個は買ってるかもしれないよ！
+yosuga_wav/Yorihime_Nao/NO031307.wav|2|私は、ウィンドウショッピングでいいよ。チラ見でね。
+yosuga_wav/Amatsume_Akira/AK022080.wav|1|あくっ.んっ..おっ..お腹の中がこすれてるみたい..
+yosuga_wav/Kasugano_Sora/SR010541.wav|0|..きれい。
+haruka_wav/Ifukube_Yahiro/YH110012.wav|6|違うだろ..ああ、そうだカウントダウンだったな。んーと、あと何日だ..『ヨスガノソラ』発売まであと６日か。
+yosuga_wav/Yorihime_Nao/NO031431.wav|2|とりあえず、座ろっか？
+yosuga_wav/Nogisaka_Motoka/MT050004.wav|4|へっ..あ、はい！　わ、私は怪しい者じゃありません！！ ちょっとお遣いと言いますか..
+yosuga_wav/Yorihime_Nao/NO020037.wav|2|やめなさいよ、大人げない。 あれは、子供達の為の物なんだから。
+yosuga_wav/Amatsume_Akira/AK020048.wav|1|そんなことないよっ、ハル君が間違って穹ちゃんの制服着ても似合いそうだよっ？
+haruka_wav/Migiwa_Kazuha/KA030014.wav|3|はいっ、春日野君、穹さん..ドリンクです。
+yosuga_wav/Migiwa_Kazuha/KA041211.wav|3|笑って、お似合いだって..怒りもしないで、認めて..
+haruka_wav/Ifukube_Yahiro/YH010971.wav|6|くぅ..奥に当たって来やがる..ってドサクサに紛れてどこ触ってやがる..
+yosuga_wav/Amatsume_Akira/AK030109.wav|1|ゴメンね亮兄ちゃん。下に水着着ていこうとしたら、カズちゃんから怒られちゃったの。
+yosuga_wav/Amatsume_Akira/AK040348.wav|1|さっき海の家でアイスみつけたんだよー。ご飯食べたらみんなで食べない？
+yosuga_wav/Amatsume_Akira/AK020036.wav|1|ばいばーい！！　みんな気をつけてねー！
+haruka_wav/Yorihime_Nao/NO110025.wav|2|届いてるわけないでしょ！　だってこれ...
+yosuga_wav/Kasugano_Sora/SR010515.wav|0|..疲れた..
+yosuga_wav/Amatsume_Akira/AK021397.wav|1|ちゅっ..んふーっ.んんぅんっ..ハル君..
+yosuga_wav/Nogisaka_Motoka/MT050013.wav|4|えっ！？　ナンパ？　都会っ子？
+haruka_wav/Migiwa_Kazuha/KA020117.wav|3|うふふ、いたわねそういう自意識過剰な女の子。
+yosuga_wav/Amatsume_Akira/AK020379.wav|1|ひゃっ！？
+yosuga_wav/Migiwa_Kazuha/KA020278.wav|3|ムッ！！　あなたたちが怒らせるからでしょ？
+yosuga_wav/Nogisaka_Motoka/MT051255.wav|4|夏になって、彼がまた転勤する事になった。東京に戻るのだと言っていた。
+yosuga_wav/Migiwa_Kazuha/KA041502.wav|3|この幸せは、手放さなくても良いのね..
+haruka_wav/Kuranaga_Kozue/KO020855.wav|5|あーあー違うんです違うんです！　別に催促したわけじゃなくてですね！　あのその、穹さんならわかってくれますよね！？
+haruka_wav/Nogisaka_Motoka/MT010053.wav|4|やーねぇ、やひろ、もっと楽しそうにしなさいよ。
+yosuga_wav/Kasugano_Sora/SR010795.wav|0|んむっ..んっ...
+yosuga_wav/Kasugano_Sora/SR010784.wav|0|..嫌いに..ならないで..あぁぁっ...
+haruka_wav/Kuranaga_Kozue/KO021585.wav|5|ん..くっ....はい、お願いします。
+yosuga_wav/Migiwa_Kazuha/KA020226.wav|3|べっ、別になんでもないわよ！！　ところで二人は何してたのよ？　そ、そんなに近づいて..
+yosuga_wav/Yorihime_Nao/NO010039.wav|2|冗談だよ。でも、本当に帰らないといけないしね。
+yosuga_wav/Kasugano_Sora/SR011533.wav|0|...違う。
+yosuga_wav/Migiwa_Kazuha/KA040868.wav|3|んっ..んんっ..く..んんんっっ..
+haruka_wav/Migiwa_Kazuha/KA110028.wav|3|ありません！！！　全く、これっぽっちも！！
+yosuga_wav/Amatsume_Akira/AK020851.wav|1|うん、いいよ！
+yosuga_wav/Amatsume_Akira/AK021168.wav|1|ハル君と穹ちゃんも一緒に行く？　カズちゃんも来るよ～。
+haruka_wav/Kasugano_Sora/SR001205.wav|0|そして、ハルを追い詰めて、苦しめて..最後にハルを危ない目に遭わせちゃったのも私...
+yosuga_wav/Migiwa_Kazuha/KA020284.wav|3|帰れ！！！
+haruka_wav/Kuranaga_Kozue/KO021123.wav|5|えっ？　あ、あの..春日野君？
+haruka_wav/Kuranaga_Kozue/KO021329.wav|5|神様ーーー！！　本当にありがとうーーーーーー！！
+yosuga_wav/Amatsume_Akira/AK000009.wav|1|カズちゃんでいいのにねー？
+haruka_wav/Migiwa_Kazuha/KA000079.wav|3|ん？　どうかしたの、春日野君？
+yosuga_wav/Kasugano_Sora/SR050186.wav|0|なにやってるの？
+haruka_wav/Ifukube_Yahiro/YH010163.wav|6|男と関係を結んだ。
+yosuga_wav/Yorihime_Nao/NO010208.wav|2|モテモテね？
+yosuga_wav/Kasugano_Sora/SR010635.wav|0|..ふんっ。
+yosuga_wav/Yorihime_Nao/NO020133.wav|2|いらっしゃい、ゆっくり遊んでってね。
+haruka_wav/Kuranaga_Kozue/KO021632.wav|5|（はい、そうです。何故私たちはわざわざ学校まで来たのか.その答えはズバリ！）
+yosuga_wav/Amatsume_Akira/AK020219.wav|1|いっくよー？
+yosuga_wav/Amatsume_Akira/AK020548.wav|1|うん、プールの何倍あるんだろうね。あっ、ほらっ、あそこに社が見えるよね？　すっごい昔はあそこでお祭りをしていたんだって。
+haruka_wav/Amatsume_Akira/AK100027.wav|1|ううん、気にしないで。みんな知ってることだから。
+yosuga_wav/Yorihime_Nao/NO032027.wav|2|んふっ..あっ..待って..自分で脱ぐから..
+yosuga_wav/Kasugano_Sora/SR020043.wav|0|....蚊。
+yosuga_wav/Yorihime_Nao/NO010307.wav|2|っ...余計なお世話よ。 ...でも..ありがと。
+yosuga_wav/Amatsume_Akira/AK010165.wav|1|どう？　綺麗っしょ？
+haruka_wav/Kuranaga_Kozue/KO020400.wav|5|はいっ！　絶好調倉永梢ですっ！
+haruka_wav/Migiwa_Kazuha/KA020050.wav|3|倉永さん、困ってるでしょ。やめなさい、瑛。
+yosuga_wav/Kasugano_Sora/SR050147.wav|0|..ほんと。
+yosuga_wav/Amatsume_Akira/AK020634.wav|1|お留守番させちゃってゴメンね、交代しようか？　遊びに行ってもいいよ？
+yosuga_wav/Ifukube_Yahiro/YH020091.wav|6|ふーん..間が悪い男だな。
+yosuga_wav/Nogisaka_Motoka/MT050553.wav|4|まだ、エッチはしたくない？
+haruka_wav/Kasugano_Sora/SR001027.wav|0|もし体型が同じだったら、私の服、ハル着ちゃえるし。 なんか似合いそう...
+yosuga_wav/Nogisaka_Motoka/MT050235.wav|4|ってそれじゃあ言い訳にもなってないわよぉ～。
+yosuga_wav/Amatsume_Akira/AK020267.wav|1|んっ？　どうしたのハル君？
+yosuga_wav/Migiwa_Kazuha/KA040111.wav|3|ぷっ..
+yosuga_wav/Kasugano_Sora/SR020246.wav|0|そう...
+yosuga_wav/Kasugano_Sora/SR050089.wav|0|もう、あんな女にかまわないで。
+yosuga_wav/Kasugano_Sora/SR010129.wav|0|...ん....
+yosuga_wav/Nogisaka_Motoka/MT050562.wav|4|あ..もう少し強くしても、ん..いいのよ..手のひらで、搾るみたいに..
+yosuga_wav/Nogisaka_Motoka/MT051021.wav|4|反省してないなー？ ま、お礼は何か考えておくから、楽しみにしててね。
+haruka_wav/Kasugano_Sora/SR001502.wav|0|パパとママが伝えたかったことを私たちが引き継ぐ..
+haruka_wav/Nogisaka_Motoka/MT010023.wav|4|あらぁ、悠くんじゃない。いらっしゃーい。
+yosuga_wav/Kasugano_Sora/SR010774.wav|0|もっと..気持ちよく..ハル..もっと...
+haruka_wav/Migiwa_Kazuha/KA100063.wav|3|本当は、私が家の手伝いをしなければいけないのに、乃木坂さんにはいつもご迷惑をかけてすみません。
+yosuga_wav/Nogisaka_Motoka/MT050226.wav|4|これからも、何かあったら私を頼っていいからね？
+haruka_wav/Kasugano_Sora/SR001184.wav|0|ん。
+yosuga_wav/Amatsume_Akira/AK020455.wav|1|わかった？
+haruka_wav/Kasugano_Sora/SR020285.wav|0|......ん、これ。
+haruka_wav/Kasugano_Sora/SR001405.wav|0|あっ..んっ、んぅっ！　あっ、はぁんっ..はぁはぁっ..
+yosuga_wav/Amatsume_Akira/AK021336.wav|1|あはぁっ..裏スジの方が気持ちいいのかな.れろれろしてあげる。
+yosuga_wav/Yorihime_Nao/NO030386.wav|2|伊福部（いふくべ）やひろさんっていうお姉さんの事ね。 ここのお店の人なの。
+yosuga_wav/Yorihime_Nao/NO050054.wav|2|仲良く着替えに行ったって聞いたけど..
+haruka_wav/Kuranaga_Kozue/KO100090.wav|5|きょうだい.ですか..お姉さん.ですかね？
+haruka_wav/Kuranaga_Kozue/KO021774.wav|5|は、はい、わかりました。
+haruka_wav/Kasugano_Sora/SR000705.wav|0|待って...
+yosuga_wav/Yorihime_Nao/NO050034.wav|2|はるちゃんが馬なら、あんたは良いとこロバよ。
+yosuga_wav/Amatsume_Akira/AK040063.wav|1|穹ちゃーん、亮兄ちゃんは怖くないよー。
+haruka_wav/Kasugano_Sora/SR000593.wav|0|ねっ、絶対来てね？
+yosuga_wav/Nogisaka_Motoka/MT050705.wav|4|はぁ..ほんと、ため息もつきたくなるわ。
+yosuga_wav/Yorihime_Nao/NO010236.wav|2|私は、みんなを帰すから。
+yosuga_wav/Kasugano_Sora/SR010469.wav|0|メールを開いてみると、名前も知らない友達と遊んでいる写真が添付されている。
+yosuga_wav/Amatsume_Akira/AK022031.wav|1|んぶっ..んぢゅぅぅぅっ..んっううっ！！
+haruka_wav/Nogisaka_Motoka/MT020050.wav|4|ええ、やひろとは昔からの腐れ縁でね。モテない女同士、毎晩世間の憂さを忘れるために飲み明かしてるの～。
+yosuga_wav/Migiwa_Kazuha/KA020340.wav|3|っ........
+yosuga_wav/Yorihime_Nao/NO020018.wav|2|おはよっ、はるちゃん。
+haruka_wav/Kuranaga_Kozue/KO021821.wav|5|えっ..それってまさか....別れ話......
+haruka_wav/Amatsume_Akira/AK030010.wav|1|穹ちゃんっ、最近のカラオケって歌うだけじゃなくて、サービスも凄いんだよ！　ビールジョッキでジュースが来たり、おっきいたこ
+yosuga_wav/Nogisaka_Motoka/MT050942.wav|4|だからキツいの。自分のいたらなさを思い知らされるの。
+haruka_wav/Kuranaga_Kozue/KO021899.wav|5|んちゅぅっ..はぁっ..あぁっ..はるか..くぅん..
+yosuga_wav/Migiwa_Kazuha/KA041193.wav|3|何か手伝えたら良いんだけど..
+haruka_wav/Kasugano_Sora/SR020217.wav|0|......なんか旅館みたい。
+yosuga_wav/Yorihime_Nao/NO010219.wav|2|あ、そうだ、はるちゃん、この後もうるさいのがお見舞いに来てくれるよ？
+haruka_wav/Kasugano_Sora/SR000422.wav|0|あっ..ああんっ！　あはぁっ！　いっ..いいのぉっ..
+haruka_wav/Kuranaga_Kozue/KO100164.wav|5|そう、渚さんは、奥木染の名家の娘さん。お父さんは代議士をされている偉い人で、名実ともにお嬢様と呼ばれる存在だ。
+yosuga_wav/Kasugano_Sora/SR010888.wav|0|おしっこが出るとこの下..んうぅっ..あっ..こ、ここ.
+haruka_wav/Kuranaga_Kozue/KO000078.wav|5|よかったです..今日も二人に会えて。
+haruka_wav/Ifukube_Yahiro/YH010908.wav|6|んふっ..ちゅる..くぽ..
+haruka_wav/Kuranaga_Kozue/KO100212.wav|5|...な、なんでしょうこれ...
+yosuga_wav/Amatsume_Akira/AK021308.wav|1|あっ..何か出てきた..精液かな？
+haruka_wav/Kuranaga_Kozue/KO100050.wav|5|さらに意外だったのは、中里さんと去年クラスメートだったって事だ。
+haruka_wav/Ifukube_Yahiro/YH010081.wav|6|これもその一環かよ。
+yosuga_wav/Amatsume_Akira/AK020117.wav|1|ん～、うちに余ってるのあるから、ハル君達使う？
+haruka_wav/Migiwa_Kazuha/KA020111.wav|3|倉永さん。
+yosuga_wav/Yorihime_Nao/NO030749.wav|2|どうしちゃったのっ、ぼーっとしちゃって熱中症？
+haruka_wav/Kuranaga_Kozue/KO020201.wav|5|は、はいっ！　では、穹さんもお元気で！
+haruka_wav/Yorihime_Nao/NO000017.wav|2|ハルちゃん、そんなこと言っちゃダメよ？　穹ちゃんがせっかく作ってくれてるんだし。
+haruka_wav/Yorihime_Nao/NO110039.wav|2|だっ、ダメです！！　発売日、決まってるんですから！
+yosuga_wav/Kasugano_Sora/SR030336.wav|0|...うん。
+yosuga_wav/Ifukube_Yahiro/YH050186.wav|6|黙れ。
+haruka_wav/Kuranaga_Kozue/KO021833.wav|5|えへ、えへへ..何だか照れくさいですね。 まるで本物の恋人みたい。
+yosuga_wav/Amatsume_Akira/AK021481.wav|1|あははは！　やぁだ！
+haruka_wav/Amatsume_Akira/AK010055.wav|1|はーい。それじゃお注ぎするねー。おっとっとー..
+yosuga_wav/Amatsume_Akira/AK022063.wav|1|あはぁぁぁぁぁぁぁぁぁぁぁぁぁぁん！！！
+yosuga_wav/Migiwa_Kazuha/KA020386.wav|3|結局、みんなに認めてもらえない姉妹なんてものより、みんなに認めてもらえる恋人の方が良かったのよ！！
+yosuga_wav/Kasugano_Sora/SR011529.wav|0|ハルまで、殺そうとした..
+yosuga_wav/Amatsume_Akira/AK021628.wav|1|..あたし..ここからいなくなったほうがいいのかな？
+yosuga_wav/Amatsume_Akira/AK020846.wav|1|じゃなくて？
+yosuga_wav/Migiwa_Kazuha/KA040960.wav|3|..入った事あるの？
+haruka_wav/Ifukube_Yahiro/YH010342.wav|6|あたしは悠が恋人とか、ちっとも考えらんないね。
+yosuga_wav/Kasugano_Sora/SR010134.wav|0|.わ..わかった。
+haruka_wav/Kasugano_Sora/SR000584.wav|0|きゃっ！？
+yosuga_wav/Amatsume_Akira/AK021648.wav|1|はーい！　じゃあ一ページ終わったら答え合わせしようね。
+yosuga_wav/Amatsume_Akira/AK020959.wav|1|カズちゃん、亮兄ちゃん、奈緒お姉ちゃん、穹ちゃん.. そして、ひろ姉ちゃん、初佳お姉ちゃんも好き..
+haruka_wav/Kuranaga_Kozue/KO110041.wav|5|絶対違うと思うけど...
+yosuga_wav/Kasugano_Sora/SR011670.wav|0|んふーっ..んっ、あはぁっ..あっ..ハル凄いよ..
+yosuga_wav/Yorihime_Nao/NO030390.wav|2|こんにちはっ、やひろさん。
+yosuga_wav/Nogisaka_Motoka/MT051233.wav|4|彼は会社に入ってまだ二年目で、輝かしい希望に溢れ、活動的な人だった。
+yosuga_wav/Migiwa_Kazuha/KA040799.wav|3|“おかえりなさい”。
+yosuga_wav/Ifukube_Yahiro/YH020027.wav|6|ふーん..ま、どうでもいいけどよー。
+yosuga_wav/Yorihime_Nao/NO031269.wav|2|じゃあ、エスコートはお任せしちゃおうかなっ。はるちゃんプロデュースのデート、楽しみにしてるね？
+haruka_wav/Kasugano_Sora/SR001229.wav|0|...ハルは何度も言ってる..私たちはこれからだって。
+yosuga_wav/Migiwa_Kazuha/KA020138.wav|3|...お母様...
+yosuga_wav/Kasugano_Sora/SR020286.wav|0|うちの住所知らないから..お金はハルが払う。
+yosuga_wav/Kasugano_Sora/SR050179.wav|0|..フン。
+yosuga_wav/Yorihime_Nao/NO020153.wav|2|しっかりね..応援してる。
+yosuga_wav/Amatsume_Akira/AK021021.wav|1|んっ、んふっ..あぁぁっ..はぁはぁっ.腰が浮いちゃう.
+yosuga_wav/Amatsume_Akira/AK021478.wav|1|ふふっ、じゃ約束ー。ゆびきり～！
+haruka_wav/Kuranaga_Kozue/KO020891.wav|5|か、春日野..くん....
+haruka_wav/Ifukube_Yahiro/YH010079.wav|6|ったく、最初見た時は冷めた奴だと思ってたんだがな..
+yosuga_wav/Kasugano_Sora/SR010547.wav|0|うん...
+yosuga_wav/Amatsume_Akira/AK020892.wav|1|うん！　カズちゃん消そっ？
+yosuga_wav/Nogisaka_Motoka/MT051120.wav|4|あの子..被後見人の前で何やってるのよ。
+yosuga_wav/Amatsume_Akira/AK020212.wav|1|あはははっ、亮兄ちゃーんっ、かけてかけてー！！！
+yosuga_wav/Nogisaka_Motoka/MT040021.wav|4|ええっ..良いんですか？　わたくしめごときがご相伴して？
+haruka_wav/Kuranaga_Kozue/KO020475.wav|5|あ、天女目さん！？　やっ、ちょっと、何するんですか！？
+yosuga_wav/Migiwa_Kazuha/KA020393.wav|3|ううん、二人のせいじゃないって..わかってたのに.. ..すぐに受け入れられなかった...なのに私は..
+yosuga_wav/Yorihime_Nao/NO030977.wav|2|落ち着いていけば、大丈夫よっ。
+yosuga_wav/Nogisaka_Motoka/MT050382.wav|4|特にあんた、キツイ系の美人だしー。嫉妬されてたんじゃないのー？
+haruka_wav/Yorihime_Nao/NO100035.wav|2|その、俺のおかげでみたいな、言い方やめてよね。 別に引きこもりでも不登校でもないんだし。
+haruka_wav/Kuranaga_Kozue/KO021004.wav|5|（って、ここでめげちゃダメ！　せっかく神様がくれた、多分一生に一度きりの大チャンスなんだから！）
+yosuga_wav/Migiwa_Kazuha/KA040798.wav|3|あ、なら私も..
+yosuga_wav/Yorihime_Nao/NO010323.wav|2|あれっ..亮平、アンタ説明してなかったの？　同じクラスなのに！
+haruka_wav/Kuranaga_Kozue/KO020184.wav|5|初耳ですっ！　そういう大事なことは最初に教えてください！
+yosuga_wav/Migiwa_Kazuha/KA000023.wav|3|こ、こっそり？
+yosuga_wav/Amatsume_Akira/AK040160.wav|1|ハルくーん、今日はどうするー？　 あれ？　委員長とお話中だった？
+yosuga_wav/Yorihime_Nao/NO030136.wav|2|あんた、何バカなこと期待してんのよ。
+haruka_wav/Kuranaga_Kozue/KO021113.wav|5|あ、ああ、そういうことですか。はい、納得しました。
+yosuga_wav/Nogisaka_Motoka/MT051078.wav|4|かしこまらなくたっていいってば。あんな料理で良かったらいつでも食べに来ていいんだから。
+yosuga_wav/Amatsume_Akira/AK021321.wav|1|ちゅぅぅっ..ちゅぼっちゅぼっ..んぅぅ..んふーっ.
+yosuga_wav/Kasugano_Sora/SR020215.wav|0|なにしてるの？
+yosuga_wav/Migiwa_Kazuha/KA040883.wav|3|は、はる、か..あっ、ひぐっ、んああああっっっっ！！！
+yosuga_wav/Amatsume_Akira/AK020570.wav|1|うわぁお！　おいしそーな匂いがするー！！
+haruka_wav/Nogisaka_Motoka/MT010006.wav|4|ほらねー、もっと愛想良くしなよ。そしたらモテモテだから！
+yosuga_wav/Amatsume_Akira/AK020710.wav|1|えへっ、だってうちの側ってラーメン屋さんないから、一度頼んでみたかったの。
+yosuga_wav/Yorihime_Nao/NO000116.wav|2|ううん、はるちゃん大変だし、何か力になれたらなって。
+yosuga_wav/Amatsume_Akira/AK020938.wav|1|ううん、そんなことないよ。カズちゃんだって凄く喜んでた。
+yosuga_wav/Kasugano_Sora/SR010718.wav|0|....？
+yosuga_wav/Kasugano_Sora/SR010264.wav|0|本当に、歯が溶けそうなくらい甘いパンを頬張って..
+yosuga_wav/Yorihime_Nao/NO030868.wav|2|それでも私は嬉しくて、年賀状の返事を一生懸命書いた。
+yosuga_wav/Yorihime_Nao/NO031655.wav|2|う..うん..そのあと、私がはるちゃんを引き留めちゃったから..
+yosuga_wav/Migiwa_Kazuha/KA041121.wav|3|たまにって、二人で遊びに行く事だって、ほとんどないじゃない。
+yosuga_wav/Migiwa_Kazuha/KA040670.wav|3|私、いつもお小言ばっかりで、瑛にも嫌な思いさせてたかもしれない..
+yosuga_wav/Nogisaka_Motoka/MT010024.wav|4|ゴメンなさいね、いろいろ気を遣ってもらっちゃって。
+yosuga_wav/Migiwa_Kazuha/KA040136.wav|3|わ、私は別にっ..な、なんですかっ！　春日野君までからかわないでくださいっ！
+yosuga_wav/Nogisaka_Motoka/MT050940.wav|4|タイミング良くないって！　..もう情けないとこ見せちゃったじゃない。
+haruka_wav/Ifukube_Yahiro/YH010919.wav|6|ふふっ、締まりのない顔しやがって..こんくらいでメロメロになるなんて、悠も簡単な奴だな。
+yosuga_wav/Migiwa_Kazuha/KA041090.wav|3|おかげで..私、すごく感じさせられて..
+yosuga_wav/Yorihime_Nao/NO010244.wav|2|..いい？　その..心を落ち着けてね。
+yosuga_wav/Yorihime_Nao/NO010201.wav|2|まー、なんというか、Ｗあきらに掛かっちゃ渚さんも形無し ね。
+yosuga_wav/Amatsume_Akira/AK020055.wav|1|それじゃあ、荷物載せていいよっ、家まで運んであげる。
+haruka_wav/Kasugano_Sora/SR000082.wav|0|疲れてるけど..色んな事考えてたら眠れなくなっちゃった。
+yosuga_wav/Nogisaka_Motoka/MT051419.wav|4|私みたいなイイオトナは何言われたって平気だけど、悠くんはまだまだこれからがあるし。
+haruka_wav/Ifukube_Yahiro/YH010005.wav|6|ガキの溜まり場になってる現実は、想定外だったよ。
+yosuga_wav/Nogisaka_Motoka/MT050344.wav|4|ネットがどうかした？
+haruka_wav/Kuranaga_Kozue/KO020328.wav|5|（あ、そうだ。あの人たちなら春日野君と乃木坂さんのこと、何か知ってるかも..）
+yosuga_wav/Yorihime_Nao/NO050078.wav|2|もうっ、またつば飛んでるよぉっ！
+yosuga_wav/Yorihime_Nao/NO031857.wav|2|....どうしようか...
+haruka_wav/Migiwa_Kazuha/KA100013.wav|3|起こりすぎてるわよ！　授業中はおしゃべりしすぎで怒られるわ、自転車でため池に落ちるわ、新学期早々落ち着きがないでしょ！　
+yosuga_wav/Yorihime_Nao/NO000161.wav|2|ほんっと、くだらない事が好きよねー。
+yosuga_wav/Amatsume_Akira/AK030097.wav|1|ぅあいたっっ！？
+yosuga_wav/Nogisaka_Motoka/MT051332.wav|4|私と、手を..？　..悠くんは、繋ぎたいって思ってくれるの..？
+haruka_wav/Ifukube_Yahiro/YH010553.wav|6|告白って..なにぃっ！
+yosuga_wav/Nogisaka_Motoka/MT040018.wav|4|そうねぇ..なんか分厚いお肉を用意してたけど。
+yosuga_wav/Amatsume_Akira/AK040244.wav|1|じゃ、うちでやる？　麦茶出すよー！
+haruka_wav/Kuranaga_Kozue/KO020510.wav|5|げっ、この声は！？
+yosuga_wav/Amatsume_Akira/AK021976.wav|1|え？
+yosuga_wav/Nogisaka_Motoka/MT050111.wav|4|酔ってな～～～い..全然、足りないよ..んっ、んくっ..
+haruka_wav/Ifukube_Yahiro/YH010915.wav|6|舌を..んふっ、絡めれば..れろ..良いんだな..あむ、ぴちゃ..動かしながらだと..んふ、難しいな..
+yosuga_wav/Amatsume_Akira/AK040007.wav|1|あー！　ひろ姉ちゃんだ！　おーーーーい！！！
+yosuga_wav/Migiwa_Kazuha/KA041357.wav|3|どう、かしら..
+yosuga_wav/Amatsume_Akira/AK040064.wav|1|あははー、それはそうかもー。
+yosuga_wav/Kasugano_Sora/SR011366.wav|0|だから..ハルも、ずっと私だけを見て？
+yosuga_wav/Yorihime_Nao/NO030142.wav|2|ううん、いいの。はるちゃん達大変だし、フォローは任せて。
+yosuga_wav/Kuranaga_Kozue/KO000027.wav|5|遠慮しておきます。
+yosuga_wav/Amatsume_Akira/AK022204.wav|1|もっと見たいよ..ハル君と色んな世界を。
+yosuga_wav/Amatsume_Akira/AK022178.wav|1|それじゃあ、失礼します。カズちゃんのお母さん。
+yosuga_wav/Yorihime_Nao/NO030362.wav|2|う..うん...そうね。
+yosuga_wav/Amatsume_Akira/AK021922.wav|1|でもカズちゃんにまで..迷惑をかけられないよ..
+yosuga_wav/Amatsume_Akira/AK020598.wav|1|いいからっ、ほらっ、あーん？
+yosuga_wav/Migiwa_Kazuha/KA040333.wav|3|私にとって、瑛はかけがえのない存在なんです。
+yosuga_wav/Yorihime_Nao/NO000148.wav|2|田舎は義理と人情で動いてるからね～。
+yosuga_wav/Nogisaka_Motoka/MT050780.wav|4|あは、あはは..そんな風に思ってくれるんだ..あんなにダメな所散々見られてるのに..
+haruka_wav/Kasugano_Sora/SR000338.wav|0|あはぁっ..んっちゅっ..はぁはぁっ..
+haruka_wav/Amatsume_Akira/AK030037.wav|1|かわいそーだなぁ..亮兄ちゃん..
+yosuga_wav/Migiwa_Kazuha/KA041059.wav|3|あっ、くんんっ..声が、出ちゃう..気持ちいいの、抑えられないっ！
+yosuga_wav/Ifukube_Yahiro/YH020164.wav|6|いつもあたしのヒアルロン酸を一緒に飲んで美肌ケアはバッチリだが、お前もそろそろ更年期障害に注意する時期だ～。
+yosuga_wav/Kuranaga_Kozue/KO010029.wav|5|でも、本当に美味しくて、これでリピーターも付くとか聞きましたよ。
+yosuga_wav/Amatsume_Akira/AK020141.wav|1|きゃっ！
+yosuga_wav/Migiwa_Kazuha/KA030009.wav|3|駄目です。
+haruka_wav/Migiwa_Kazuha/KA000025.wav|3|ふふっ、そういえばそんなこともありましたね。
+haruka_wav/Ifukube_Yahiro/YH010843.wav|6|何だ食べさせるって？　何をしてくれるんだ？
+yosuga_wav/Migiwa_Kazuha/KA040650.wav|3|あら？　こっちはこっちで勝手に遊ぼうって言ったのは、春日野君の方でしょ？
+yosuga_wav/Migiwa_Kazuha/KA000043.wav|3|ま、まったく..悪ノリしすぎよ！
+haruka_wav/Ifukube_Yahiro/YH011027.wav|6|わ、笑うなっ！　慣れてないあたしには重要な事なんだよ！
+yosuga_wav/Nogisaka_Motoka/MT050599.wav|4|はっ、くぅぅっっ、んんっ、あっ！
+yosuga_wav/Nogisaka_Motoka/MT020031.wav|4|はいっ、写メだけど、撮ってあげるねー。
+yosuga_wav/Migiwa_Kazuha/KA040367.wav|3|それはそうなんだけど..
+yosuga_wav/Nogisaka_Motoka/MT040004.wav|4|お嬢様、奥様が捜しておられていましたので。
+yosuga_wav/Migiwa_Kazuha/KA041488.wav|3|悠が..居てくれるから、私..きっと大丈夫だから..
+haruka_wav/Ifukube_Yahiro/YH010977.wav|6|つーかよ..優しくしてくれるのは、ありがたいけどよ..その、もっと激しくても..良いんだぞ？
+yosuga_wav/Amatsume_Akira/AK040015.wav|1|うん、あたし今、家族が誰もいないから、ひろ姉ちゃんが面倒を見てくれてるんだよ。
+haruka_wav/Kasugano_Sora/SR000789.wav|0|ほらっ..逃げちゃだぁめっ..んぶっ..ちゅ..
+yosuga_wav/Ifukube_Yahiro/YH050179.wav|6|たくよぉ..おい、悠。
+haruka_wav/Kuranaga_Kozue/KO021269.wav|5|私の独り言..聞こえてますか、穹さん？
+yosuga_wav/Yorihime_Nao/NO010184.wav|2|うん、じゃあまた今度。 それじゃ、遅くまでお邪魔しました。
+haruka_wav/Kuranaga_Kozue/KO021766.wav|5|か、春日野君！　そんないきなり..大胆すぎます！
+yosuga_wav/Kasugano_Sora/SR011769.wav|0|だったら、ここでぼーっとしててもいいでしょ？
+haruka_wav/Kasugano_Sora/SR001259.wav|0|ハルってば、虐められたら悦んじゃう人だったの？
+yosuga_wav/Migiwa_Kazuha/KA040970.wav|3|う、うん..えっと、何があるのかしら..
+yosuga_wav/Kasugano_Sora/SR050224.wav|0|この間見つけた..
+haruka_wav/Kasugano_Sora/SR000926.wav|0|頭が真っ白に..なっちゃ..ああんっ！！　あぁんっ！！
+yosuga_wav/Amatsume_Akira/AK040306.wav|1|えっ？　そうだっけ？
+yosuga_wav/Yorihime_Nao/NO031860.wav|2|もうどこに行っても、変わらないのかもしれない。
+yosuga_wav/Yorihime_Nao/NO031964.wav|2|こう..お口で強くしごいてあげたらどうかな？　ちゅぶっ！
+haruka_wav/Kasugano_Sora/SR000527.wav|0|ん～っ....
+yosuga_wav/Ifukube_Yahiro/YH040034.wav|6|あたしまでほっぽってたら、ばあさんが化けて祟りそうだったんだよ。
+yosuga_wav/Migiwa_Kazuha/KA041516.wav|3|お、おはよう..どうしたの？
+yosuga_wav/Kasugano_Sora/SR011071.wav|0|あ、これ食べてっ、ほらー？
+haruka_wav/Kasugano_Sora/SR000971.wav|0|はぁはぁっ..まっ..待ってぇぇぇっ！！！
+yosuga_wav/Nogisaka_Motoka/MT030115.wav|4|うん、またねー。お嬢様が帰ってきたら、伝えておくね。
+yosuga_wav/Nogisaka_Motoka/MT051615.wav|4|夏に来た時に、また来ようって約束したでしょ？　それを守ってくれたのに..
+yosuga_wav/Kasugano_Sora/SR040063.wav|0|....黒い奴？
+yosuga_wav/Nogisaka_Motoka/MT050594.wav|4|だからぁ..そのね..あそこの..毛..のこと..
+yosuga_wav/Amatsume_Akira/AK050139.wav|1|初佳お姉ちゃんどうしたの？
+yosuga_wav/Yorihime_Nao/NO031254.wav|2|ふふっ、じゃあ、考えとこうね。
+haruka_wav/Kasugano_Sora/SR020072.wav|0|......ハル。
+haruka_wav/Kuranaga_Kozue/KO100171.wav|5|うわっ、そんなにですか？
+yosuga_wav/Migiwa_Kazuha/KA041173.wav|3|もうっ......悠って、本当にズルいわ。
+yosuga_wav/Nogisaka_Motoka/MT010010.wav|4|あぁ..でも、絶対お嬢様にどん引きされそう..
+haruka_wav/Kuranaga_Kozue/KO021712.wav|5|自称じゃありません、正真正銘本物の彼女ですぅ～！！ それと、委員長はあだ名じゃないですってば！！
+haruka_wav/Kuranaga_Kozue/KO100270.wav|5|それがステータスっぽくなってる人は、また別な需要があるんじゃないですかね？
+haruka_wav/Kuranaga_Kozue/KO021636.wav|5|（はぁ～、これでついに私も屋上デビューですね。今までは肩身の狭い思いをしてきましたが、これからは堂々とここで.）
+haruka_wav/Amatsume_Akira/AK000128.wav|1|あはー、穹ちゃんあったまいいねー！　ねー、カズちゃんっ あたしたちもっ...
+yosuga_wav/Yorihime_Nao/NO030100.wav|2|ホント、口が減らない男。
+yosuga_wav/Amatsume_Akira/AK010024.wav|1|仲いいよね。ラブラブって感じだよね～。
+yosuga_wav/Amatsume_Akira/AK021467.wav|1|それだと、びしょ濡れだから、脱いでだよー。
+yosuga_wav/Yorihime_Nao/NO031427.wav|2|あっ..その..お帰り..はるちゃん。
+haruka_wav/Kuranaga_Kozue/KO020748.wav|5|は、はぁ....
+haruka_wav/Kuranaga_Kozue/KO021476.wav|5|じゃあ、小さい方がいいんですか？
+yosuga_wav/Migiwa_Kazuha/KA000036.wav|3|ほらっ、こぼしてるじゃない。
+yosuga_wav/Amatsume_Akira/AK010118.wav|1|さっき、授業で当てられちゃって、解けなかったから罰として課題もらっちゃったんだよ。
+yosuga_wav/Migiwa_Kazuha/KA030016.wav|3|そ、そうじゃなくて！！
+haruka_wav/Kuranaga_Kozue/KO021495.wav|5|うえぇっっ！？　も、揉むって..自分でですか！？
+haruka_wav/Kasugano_Sora/SR020252.wav|0|メチャクチャだったけど..とにかく委員長は告白した。 だから、次はハルが答える番。
+yosuga_wav/Kasugano_Sora/SR010575.wav|0|..委員長、今は私に案内してくれてるんだから、ダメ。
+haruka_wav/Ifukube_Yahiro/YH010603.wav|6|そうだな..
+yosuga_wav/Kasugano_Sora/SR010904.wav|0|んっ、んぐっぅぅっ、あっ、ああっ！！ いっ..イっちゃ.うぅぅっ..んぅぅっ！！
+yosuga_wav/Migiwa_Kazuha/KA040075.wav|3|はぁっ、はぁっ、はぁっ..
+haruka_wav/Ifukube_Yahiro/YH011061.wav|6|さ、さんきゅーな。 妹の方はどうだった？
+haruka_wav/Kuranaga_Kozue/KO000113.wav|5|いっ、いえ..私のは穹さんの味に敵うかどうかわかりませんけど.
+yosuga_wav/Nogisaka_Motoka/MT050114.wav|4|..そうよ..どーせ私なんか..うっ、っぷ。
+haruka_wav/Kasugano_Sora/SR000970.wav|0|待ってよぉっ！！　ハルぅぅっ！！！
+haruka_wav/Amatsume_Akira/AK000191.wav|1|大丈夫だって、カズちゃんのプニプニも好きだから。
+haruka_wav/Ifukube_Yahiro/YH010935.wav|6|..わかってるよ..けど、恥ずかしいモンは仕方ねえだろ？
+yosuga_wav/Migiwa_Kazuha/KA020072.wav|3|いいえ、誤解させるような態度をとってすみませんでした。 でも..私だって、少しは人見知りをするんです...
+haruka_wav/Kasugano_Sora/SR000021.wav|0|..何..その反応。
+yosuga_wav/Yorihime_Nao/NO032107.wav|2|おちんちんが..おっきくなって、ビクビクしてるようっ！！
+haruka_wav/Kasugano_Sora/SR020041.wav|0|あっ..委員長....
+haruka_wav/Nogisaka_Motoka/MT010037.wav|4|ぐ、ぐーで殴ったぁ～～～..
+haruka_wav/Amatsume_Akira/AK100013.wav|1|おおっ、そっかぁ！
+haruka_wav/Kasugano_Sora/SR000802.wav|0|くすぐっ..たくて..んぅっ！　あっ..あはぁっ..
+haruka_wav/Kasugano_Sora/SR000953.wav|0|もう、ハルってばぁ。
+haruka_wav/Kuranaga_Kozue/KO020494.wav|5|....そうだったんですか。
+haruka_wav/Ifukube_Yahiro/YH010199.wav|6|じゃあアシスタントは？
+yosuga_wav/Migiwa_Kazuha/KA041402.wav|3|ふあっ、あっ..くふん..くすぐった..あっ..
+yosuga_wav/Migiwa_Kazuha/KA020341.wav|3|わっ、私は別に、期待なんかしてなかったんですからね！
+yosuga_wav/Kasugano_Sora/SR040004.wav|0|..わかった。
+haruka_wav/Kasugano_Sora/SR030013.wav|0|...ハル、タクシー呼んで。
+yosuga_wav/Amatsume_Akira/AK021318.wav|1|さて、もういっかーい..ちゅぶっ..ちろっ..んちゅ.
+haruka_wav/Kuranaga_Kozue/KO020747.wav|5|たまたま？　春日野君が神社で？
+yosuga_wav/Yorihime_Nao/NO030915.wav|2|自分がしでかした事を後悔し...やり場のない思いを抱えてくすぶったまま。
+yosuga_wav/Amatsume_Akira/AK021166.wav|1|こんにちはー！
+haruka_wav/Kuranaga_Kozue/KO020200.wav|5|そ、それでは私はこれで。色々とその.. お邪魔しちゃってすみませんでした。じゃ、じゃあ！
+yosuga_wav/Kasugano_Sora/SR010673.wav|0|...っ..
+haruka_wav/Kuranaga_Kozue/KO020954.wav|5|ううっ、空気読めてない上にいらない子だなんて..
+haruka_wav/Kasugano_Sora/SR020139.wav|0|委員長には教えない。
+haruka_wav/Kuranaga_Kozue/KO100080.wav|5|す、すぐ戻られます？　春日野君。
+yosuga_wav/Amatsume_Akira/AK020253.wav|1|はいっ、どうぞ。 ちょっと掃除もしちゃうから、ゆっくりしてってね。
+yosuga_wav/Amatsume_Akira/AK030042.wav|1|ううん、あたしお店屋さんって、一度やってみたかったんだ。だからお店番も楽しいし、店長さんになった気分だよ。
+haruka_wav/Nogisaka_Motoka/MT010164.wav|4|うっひゃっひゃっひゃ、らーぶらぶ、らーぶらぅ～♪
+yosuga_wav/Nogisaka_Motoka/MT051276.wav|4|ねえ？　わかんない。私、全然わかんないよ。
+yosuga_wav/Amatsume_Akira/AK010246.wav|1|うん、十分十分～。カズちゃんと、ひろ姉ちゃんと一緒に食べるし、これだけあれば師匠にもあげられる～。
+yosuga_wav/Amatsume_Akira/AK020688.wav|1|ハル君、ゴメンね～。
+yosuga_wav/Nogisaka_Motoka/MT010001.wav|4|とりあえず、移動しちゃいましょう。
+yosuga_wav/Kasugano_Sora/SR011277.wav|0|んくっ..あっ、あふぅっ..んっんぁっ..うん.そう.
+yosuga_wav/Amatsume_Akira/AK020515.wav|1|..えっ？　何が？
+haruka_wav/Ifukube_Yahiro/YH010065.wav|6|う、うおっ..
+yosuga_wav/Nogisaka_Motoka/MT050767.wav|4|ごめんなさい！
+yosuga_wav/Kuranaga_Kozue/KO010002.wav|5|..は、はい..！
+yosuga_wav/Amatsume_Akira/AK021552.wav|1|....ハル君。
+yosuga_wav/Amatsume_Akira/AK020154.wav|1|ハル君が引っ越してきたのも、師匠が教えてくれたんだよ。
+yosuga_wav/Yorihime_Nao/NO030348.wav|2|ほらっ、いわんこっちゃない。
+yosuga_wav/Amatsume_Akira/AK040320.wav|1|らじゃー！　亮兄ちゃん！
+yosuga_wav/Kasugano_Sora/SR011156.wav|0|あぁっ..嬉しい..もっとしてあげる..ハル..我慢しないで..いっぱい出してね..
+yosuga_wav/Amatsume_Akira/AK040254.wav|1|そっかー、そーだったねー。改めていらっしゃい、ハル君。
+yosuga_wav/Amatsume_Akira/AK022157.wav|1|えっ？　いいじゃん、らぶらぶーなんだし。
+yosuga_wav/Amatsume_Akira/AK040431.wav|1|でもー..あんまりお邪魔したら悪いし？
+yosuga_wav/Yorihime_Nao/NO030932.wav|2|私とはるちゃんがって..今でも信じられないの..
+haruka_wav/Kasugano_Sora/SR001249.wav|0|きゃっ..ハル大丈夫？
+yosuga_wav/Amatsume_Akira/AK020545.wav|1|えっ？　うん、上ってる時に気づいてたんだ～。
+yosuga_wav/Amatsume_Akira/AK010110.wav|1|ほら、みんなハル君のことが心配な気持ちは変わらないんだから、ね？
+haruka_wav/Migiwa_Kazuha/KA020036.wav|3|ごめんなさい、倉永さん。この子ったらすぐ胸やお尻を触りたがるクセがあって..
+yosuga_wav/Migiwa_Kazuha/KA040530.wav|3|そうよ、別に、何もないわよっ！！
+yosuga_wav/Yorihime_Nao/NO030218.wav|2|あっ！　あはぁんっ..あっ..はるちゃん...
+yosuga_wav/Yorihime_Nao/NO030522.wav|2|おじゃまするねっ。あ、これ水ようかん。 冷やしといて、後で食べよっ？
+yosuga_wav/Yorihime_Nao/NO030068.wav|2|また..夏が終わったら、さっといなくなったりしないでね？
+yosuga_wav/Nogisaka_Motoka/MT050204.wav|4|お腹すいたよねー、一緒に「いただきます」しよっか？　 いただきまーすっ。
+haruka_wav/Kuranaga_Kozue/KO020646.wav|5|......ん？
+yosuga_wav/Yorihime_Nao/NO030582.wav|2|はい、はるちゃん、穹ちゃん、お茶。
+yosuga_wav/Ifukube_Yahiro/YH000013.wav|6|物好きだな。何も血迷ってこんなド田舎に越してこなくても よかったろーに。
+yosuga_wav/Migiwa_Kazuha/KA041130.wav|3|不吉な事言わないで。
+haruka_wav/Amatsume_Akira/AK000138.wav|1|穹ちゃん！　行くよ～、そーれっ！！
+haruka_wav/Kuranaga_Kozue/KO020488.wav|5|えっ、春日野君は....
+haruka_wav/Nogisaka_Motoka/MT030043.wav|4|ほらっ、ねっ？　ふふふふ。
+haruka_wav/Kuranaga_Kozue/KO100063.wav|5|彼..春日野悠君の家は、病院でした。
+yosuga_wav/Kasugano_Sora/SR011532.wav|0|バカッ！　バカッ！！　何でそんなこと言うの！？
+haruka_wav/Ifukube_Yahiro/YH010743.wav|6|..あたし..イッちまった..のか？
+yosuga_wav/Amatsume_Akira/AK021483.wav|1|こうやって運動したら、水が冷たくて気持ちいいよ？
+yosuga_wav/Amatsume_Akira/AK020935.wav|1|ううん、遅くなったけど、お祝いしてあげるよ！！　今日貰ったお鍋で何か作ってあげる！　ハル君何が好き？
+haruka_wav/Kuranaga_Kozue/KO000084.wav|5|穹さん、お早うございます。
+yosuga_wav/Yorihime_Nao/NO032005.wav|2|あっ..はぁはぁっ.んっんぶっ！　んっ、んぅっ！　んっ！
+yosuga_wav/Ifukube_Yahiro/YH050052.wav|6|ばーか、酔っぱらいに忠告してんじゃねーよ。そりゃ絡んでくれって頼んでるようなモンだ。
+yosuga_wav/Amatsume_Akira/AK021350.wav|1|んっんぅぅぅっ！！　んっ、んぐっ..んううっ！！
+yosuga_wav/Yorihime_Nao/NO030943.wav|2|こんにちは..
+haruka_wav/Kuranaga_Kozue/KO021623.wav|5|は、はいっ！
+yosuga_wav/Ifukube_Yahiro/YH020048.wav|6|あのバカはここから放り出されてもへらへら笑ってそうで、 怖えよ..
+yosuga_wav/Migiwa_Kazuha/KA041278.wav|3|そんな事..考えてる自分も、嫌になったの..
+yosuga_wav/Kasugano_Sora/SR020163.wav|0|どこまで行く気？
+haruka_wav/Amatsume_Akira/AK010002.wav|1|おー、ひろ姉ちゃんが綺麗になってるー。
+yosuga_wav/Migiwa_Kazuha/KA040489.wav|3|春日野君は知らなかったのね。山のね、神社より上の方に湖があるの。そこが神社のお清めの水なのよ。
+haruka_wav/Ifukube_Yahiro/YH110019.wav|6|ったく、めんどくせーなぁ..じゃ、次頼むわ。 もう回すなよ！！
+yosuga_wav/Amatsume_Akira/AK021237.wav|1|ううん、いただきますー！　んっんっ！　美味しー！
+yosuga_wav/Yorihime_Nao/NO031182.wav|2|あぁっ..んっ..はるちゃん、おっぱい好きだね..
+yosuga_wav/Yorihime_Nao/NO010252.wav|2|“まだ、間に合うから”
+yosuga_wav/Kasugano_Sora/SR011217.wav|0|びくぅっ..あっ、あはぁぁっ！！　そ、そこ.つまんじゃ.
+yosuga_wav/Yorihime_Nao/NO030505.wav|2|こぉらっ、からかうのもほどほどにしときなさいよ？
+yosuga_wav/Kasugano_Sora/SR011174.wav|0|んぶっ、んっ、んっ、んっ、んっ！！！　んぶぁっ！！
+yosuga_wav/Ifukube_Yahiro/YH030001.wav|6|だから、勝手に食ったら、一生出入り禁止だからな？
+haruka_wav/Migiwa_Kazuha/KA000109.wav|3|はい..
+yosuga_wav/Nogisaka_Motoka/MT051417.wav|4|なんとなく付き合っちゃってるよね、私達。好きになったか らって言うんじゃなくてさ。
+haruka_wav/Migiwa_Kazuha/KA100068.wav|3|ええ、是非遊んで欲しいですね。
+yosuga_wav/Kasugano_Sora/SR000043.wav|0|..んもぅ、バカなんだからっ..
+yosuga_wav/Nogisaka_Motoka/MT050509.wav|4|................すぅ。
+haruka_wav/Nogisaka_Motoka/MT110038.wav|4|ああ、見てる見てる！　あの番組、面白いよねー。
+haruka_wav/Kuranaga_Kozue/KO022026.wav|5|....そ、そんな恥ずかしい格好..できませんよぉ..
+yosuga_wav/Kasugano_Sora/SR011428.wav|0|ハルにとっては、重荷にしかならない。
+haruka_wav/Kasugano_Sora/SR000739.wav|0|ふふっ..ハルぅっ...ちゅっ....
+yosuga_wav/Amatsume_Akira/AK020198.wav|1|昨日は家の事でビックリさせちゃったみたいでゴメンね。
+haruka_wav/Migiwa_Kazuha/KA000127.wav|3|ふふっ、ホント現金ね、瑛は。
+yosuga_wav/Amatsume_Akira/AK020949.wav|1|ハル君には、いつもビックリさせられるなぁ。
+yosuga_wav/Amatsume_Akira/AK040033.wav|1|りょ、亮兄ちゃん大丈夫？
+haruka_wav/Amatsume_Akira/AK110013.wav|1|あはっ、カズちゃんから言われちゃった。
+yosuga_wav/Migiwa_Kazuha/KA041187.wav|3|どういう事？
+haruka_wav/Migiwa_Kazuha/KA110010.wav|3|『ヨスガノソラ』発売まであと１２日となりましたが、みなさんはいかがお過ごしでしょうか？
+haruka_wav/Ifukube_Yahiro/YH010018.wav|6|なんだ通販した奴じゃねーか。
+yosuga_wav/Nogisaka_Motoka/MT051483.wav|4|そ、そんなことは..
+yosuga_wav/Amatsume_Akira/AK021473.wav|1|あははは！　ハル君女の子みたい。
+yosuga_wav/Nogisaka_Motoka/MT051344.wav|4|あ、瑛ちゃんっ！？　それは今言う事じゃないからっ！
+haruka_wav/Kuranaga_Kozue/KO021328.wav|5|（今まで色々とお世話になりました！　たまに八つ当たりとかしちゃってごめんなさい！　でも、私はもう大丈夫です！）
+haruka_wav/Migiwa_Kazuha/KA030023.wav|3|却下！！
+yosuga_wav/Migiwa_Kazuha/KA020608.wav|3|そうよ、みんなを置いて一人でどっか行ったら、許さないわ。
+haruka_wav/Kuranaga_Kozue/KO100170.wav|5|あ、習い事って何ですか？　お花とか、料理ですか？
+yosuga_wav/Yorihime_Nao/NO030973.wav|2|そんじゃいってみよう、無理しないで苦しかったら言ってね。
+haruka_wav/Kuranaga_Kozue/KO110019.wav|5|あ、そうだ、お題？　を言わなきゃいけないんですよね。 ..いつの間にできたのかしら？
+haruka_wav/Migiwa_Kazuha/KA110005.wav|3|あっ..ご、ゴメンなさい..
+yosuga_wav/Nogisaka_Motoka/MT051176.wav|4|はっ..んふっ..んっ..ちゅ..れろ..ん、ぢゅっ..んふっ..んんっ、あっ..んっ、んっ..
+haruka_wav/Kuranaga_Kozue/KO020690.wav|5|今回は？
+haruka_wav/Kuranaga_Kozue/KO021522.wav|5|はあぁっっ、乳首吸っちゃダメェェェッッッ！！
+yosuga_wav/Kasugano_Sora/SR010001.wav|0|....遅い。
+yosuga_wav/Migiwa_Kazuha/KA050031.wav|3|ネットですか..やはり私にはちょっと..
+yosuga_wav/Kasugano_Sora/SR010571.wav|0|え..う、うん。
+yosuga_wav/Kasugano_Sora/SR011102.wav|0|忘れよう？　ハルが悩む事なんて、何にもないよ。
+yosuga_wav/Kasugano_Sora/SR000107.wav|0|そんなことよりハル、お腹空いた。
+yosuga_wav/Migiwa_Kazuha/KA020080.wav|3|えっ...
+yosuga_wav/Kasugano_Sora/SR010633.wav|0|このっ！　えいっ！　くっ！！
+yosuga_wav/Kasugano_Sora/SR030159.wav|0|..ハル...やっぱり...
+yosuga_wav/Amatsume_Akira/AK040126.wav|1|やったぁー！　ありがとね、穹ちゃん。
+haruka_wav/Kasugano_Sora/SR000732.wav|0|それよりさっき..ハル、わざと私のおしり撫でまわした。
+haruka_wav/Kuranaga_Kozue/KO021075.wav|5|でも、そこからさらに一歩踏み込むのが..
+yosuga_wav/Kasugano_Sora/SR011183.wav|0|ふふっ、私もイッちゃった...んっ..あぁぁ..腰がとまんなぁい..あっ..はぁはぁはぁ..
+haruka_wav/Kuranaga_Kozue/KO021017.wav|5|あんなにも必死に..私、穹さんに合わせる顔がない。
+haruka_wav/Nogisaka_Motoka/MT100017.wav|4|そぉ？　お給料減らされたり、首になったりしないかなぁ？
+haruka_wav/Kasugano_Sora/SR000937.wav|0|ふふっ、ゴメンなさぁい...キスして..ハル..
+yosuga_wav/Kasugano_Sora/SR010360.wav|0|..う、うん..
+yosuga_wav/Amatsume_Akira/AK021844.wav|1|おまたせーっ。
+yosuga_wav/Kasugano_Sora/SR010862.wav|0|あぁぁっ..んぐっ..は、ハルっ..もっと優しくして..
+yosuga_wav/Nogisaka_Motoka/MT050284.wav|4|んぅ～..？　誰かいる..
+yosuga_wav/Amatsume_Akira/AK000027.wav|1|この前、ハル君がスーパーで買い物してたのを見かけて、 あーっ、ハル君また来てくれたんだーって。嬉しかったなぁ。
+yosuga_wav/Yorihime_Nao/NO010056.wav|2|ならいいんだけど。でも、はるちゃんが良ければ、お裾分けする分くらい作って来るよ？
+haruka_wav/Kasugano_Sora/SR000232.wav|0|...ハル...
+haruka_wav/Kasugano_Sora/SR000666.wav|0|...ホント？
+yosuga_wav/Kasugano_Sora/SR030341.wav|0|....フン。
+haruka_wav/Kasugano_Sora/SR000007.wav|0|..ゴメンなさい..
+haruka_wav/Kasugano_Sora/SR000963.wav|0|あっ、瑛..丁度良かった、駅までのせて！
+yosuga_wav/Yorihime_Nao/NO020054.wav|2|おかずはみんなで分担して作ったの、沢山あるから好きなだけ食べてね。
+yosuga_wav/Amatsume_Akira/AK021502.wav|1|何でもいいよ？　ハル君のメイドさんになっちゃうとかでも。
+yosuga_wav/Amatsume_Akira/AK020307.wav|1|カズちゃんの方が、お姉さんって感じなのにね？
+haruka_wav/Migiwa_Kazuha/KA020038.wav|3|アルミ缶のフタ？
+haruka_wav/Kasugano_Sora/SR000990.wav|0|あ...のっ、のせてくれたお礼にお土産何か買ってくる。
+yosuga_wav/Yorihime_Nao/NO030959.wav|2|今日は、賑やかねー。
+yosuga_wav/Nogisaka_Motoka/MT051606.wav|4|他はカッコイイのに、そういうお勉強は足りてないのよねぇ.
+yosuga_wav/Nogisaka_Motoka/MT051310.wav|4|やっぱり教科書が変わっちゃってるのよ。数学も理科も見たことない式が書いてあるし、国語も読んだことない文章だし..
+haruka_wav/Ifukube_Yahiro/YH011268.wav|6|行かねー。
+yosuga_wav/Nogisaka_Motoka/MT050250.wav|4|はっ、はいっっっ！？
+haruka_wav/Kuranaga_Kozue/KO021785.wav|5|あ～..それは～....春日野君、お願いします。
+yosuga_wav/Amatsume_Akira/AK010159.wav|1|お忙しいところ、ありがとうございました。
+yosuga_wav/Yorihime_Nao/NO000060.wav|2|気にしないで。そもそも通り道だしね。
+yosuga_wav/Amatsume_Akira/AK040174.wav|1|そっか、ありがとー！
+yosuga_wav/Yorihime_Nao/NO031641.wav|2|あーっ..汗とか色々なものでべとべとね..
+yosuga_wav/Kasugano_Sora/SR011436.wav|0|..来ないで！！
+haruka_wav/Kuranaga_Kozue/KO021546.wav|5|っ..だ、だから、私はそんなことしたことは一度も..
+yosuga_wav/Amatsume_Akira/AK021893.wav|1|んっ..ちゅぶっ..んはーっ..あふっ..んっ..
+haruka_wav/Ifukube_Yahiro/YH010407.wav|6|まあいい、ここらで一休みするか。
+yosuga_wav/Nogisaka_Motoka/MT051267.wav|4|『始めは、左遷としか思えなかったこの転勤も、君と出会えて張り合いのある仕事にする事が出来た』
+haruka_wav/Kasugano_Sora/SR001319.wav|0|ハルと一緒にイキたいのぉっ..んぅぅっ！　はぁはぁっ..
+haruka_wav/Kasugano_Sora/SR020240.wav|0|もし委員長が本気だったら..私は止められない..
+haruka_wav/Ifukube_Yahiro/YH010038.wav|6|腹いせに初佳を一人で置いけぼりにしてやったぜ、ケケケ。
+yosuga_wav/Yorihime_Nao/NO031225.wav|2|んぐっ..あんっ、あはっ、あぁんっ、あっ、あああああっ！！
+yosuga_wav/Kasugano_Sora/SR020182.wav|0|でも、嫌いじゃない..ハルが好きなんだったら、付き合えばいい。
+haruka_wav/Kuranaga_Kozue/KO021753.wav|5|そ、そんな..私なんか全然....
+yosuga_wav/Yorihime_Nao/NO031527.wav|2|き、きてぇっ..はるちゃん..んっ、ちゅぶっ..ちゅっ.いっぱい..いっぱい..感じて..んぁっ.はぁはぁっ.
+haruka_wav/Migiwa_Kazuha/KA000029.wav|3|ええ、前より仲良くみえますよ。
+haruka_wav/Ifukube_Yahiro/YH011100.wav|6|お前には最後まで言わないつもりだった。
+haruka_wav/Kasugano_Sora/SR001146.wav|0|ハル、この手紙貸して。
+yosuga_wav/Amatsume_Akira/AK020278.wav|1|ハル君もお友達なんだし、遠慮なんかしなくていいのにねっ。
+yosuga_wav/Kasugano_Sora/SR010581.wav|0|..う、うん...
+yosuga_wav/Yorihime_Nao/NO030572.wav|2|さて、じゃあ私も手伝いに行ってくるね。行こうっ穹ちゃん？
+haruka_wav/Kuranaga_Kozue/KO100161.wav|5|渚さんが、そういった変人を相手にして苦労させられている日常を見ているので、私も共感するところが大きい。
+yosuga_wav/Yorihime_Nao/NO030342.wav|2|んしょっ...じゃあ、ここのコース終わったから、次の コースね。
+haruka_wav/Amatsume_Akira/AK020137.wav|1|うんっ、もちろん！
+yosuga_wav/Migiwa_Kazuha/KA040887.wav|3|はむ..ちゅく、ちゅぱ..はぁ..はるか..好き..ん、んんぅ..ちゅ、んん..
+yosuga_wav/Ifukube_Yahiro/YH000011.wav|6|なんだ瑛、コイツ知り合いだったのか？
+haruka_wav/Kuranaga_Kozue/KO020481.wav|5|春日野君！　後ろ後ろっ！！
+yosuga_wav/Nogisaka_Motoka/MT050251.wav|4|なんでなんで？　なんでこうなのぉ～～～..
+yosuga_wav/Amatsume_Akira/AK021572.wav|1|あたし、正解はいらない。
+yosuga_wav/Amatsume_Akira/AK000093.wav|1|まずは、一回目のお辞儀ー。
+yosuga_wav/Yorihime_Nao/NO030924.wav|2|....っ....
+haruka_wav/Ifukube_Yahiro/YH010516.wav|6|それが腹立つってんだよ..
+haruka_wav/Kasugano_Sora/SR000184.wav|0|じゃあ何で？
+yosuga_wav/Migiwa_Kazuha/KA041413.wav|3|そ、そういう事言うのやめてっ..気にしてるのよ..
+yosuga_wav/Nogisaka_Motoka/MT050765.wav|4|と、ともかくっ！ ごめんなさいっ！
+haruka_wav/Kasugano_Sora/SR020260.wav|0|見た目は変わっても..中身は前と一緒のまま。
+yosuga_wav/Amatsume_Akira/AK020816.wav|1|お待たせっ！！　ちゃんとブラもパンツも穿いてきたよー！！
+yosuga_wav/Yorihime_Nao/NO030946.wav|2|ああこれ？　親がうるさいから、学校で部活があるって言って出てきたの。
+yosuga_wav/Nogisaka_Motoka/MT051031.wav|4|お母さんは口出ししないでっ！ ..ああもう、恥ずかしい..
+yosuga_wav/Migiwa_Kazuha/KA030015.wav|3|あ、あああ、瑛！　お行儀が悪いでしょ？
+yosuga_wav/Migiwa_Kazuha/KA041171.wav|3|え、ええ..悠はどう思うだろうって考えると、不安とか、期待とか、色々考えちゃって..
+yosuga_wav/Kasugano_Sora/SR000042.wav|0|っく..なんで！？
+haruka_wav/Kasugano_Sora/SR000272.wav|0|んぅっ..ちゅっ..んふっ...はぁはぁはぁ...
+yosuga_wav/Yorihime_Nao/NO031679.wav|2|ふふっ、男の子だねっ。あー、でも、おでんの時ってそうし ちゃうかも。
+yosuga_wav/Kasugano_Sora/SR030117.wav|0|...あ.....
+yosuga_wav/Yorihime_Nao/NO020052.wav|2|来ないかと思って、喜んでたところだったのに。
+haruka_wav/Migiwa_Kazuha/KA110035.wav|3|えっ.よくわからないわ.何かしら..つっ？
+yosuga_wav/Migiwa_Kazuha/KA040801.wav|3|あっ、瑛がね..私は、何か事情があるんじゃないかって思って..
+yosuga_wav/Migiwa_Kazuha/KA040917.wav|3|..嬉しい............あっ。
+yosuga_wav/Kasugano_Sora/SR010560.wav|0|..うん、ありがとう。
+haruka_wav/Kasugano_Sora/SR000787.wav|0|んちゅ..ハルの切なそうな声って、いつ聞いても可愛い..もっと..ちゅっ.聞きたく.んちゅ..なっちゃう..
+yosuga_wav/Nogisaka_Motoka/MT050281.wav|4|あーもー..なんで上手く出来ないのかなぁ..？
+yosuga_wav/Nogisaka_Motoka/MT051083.wav|4|悠くんが二人暮らしをしてる事を考えれば、穹ちゃんの懐柔は不可欠。
+haruka_wav/Kuranaga_Kozue/KO100245.wav|5|今日の段取りは、みんなからこれからの抱負とか聞こうと思ってたのですが！？
+yosuga_wav/Amatsume_Akira/AK040186.wav|1|......いいんだよ..それだけで。
+haruka_wav/Migiwa_Kazuha/KA010003.wav|3|ひああぁぁぁ～～～っっ！？
+yosuga_wav/Kasugano_Sora/SR011226.wav|0|あっ..あぅっ..はぁはぁはぁっ..バカぁ..
+yosuga_wav/Nogisaka_Motoka/MT051442.wav|4|一年前、亮平くんは一度は彼を見たことがあるだろうけど、それだけで私と彼の関係がわかるとは思えない。
+haruka_wav/Migiwa_Kazuha/KA020142.wav|3|瑛、人前で脱ぐなんてはしたないわよ！　 ああもうっ、あの子ったら！　ちょっと待ちなさーーーい！！
+yosuga_wav/Yorihime_Nao/NO010099.wav|2|ごめんなさい..でも、はるちゃんが戻ってきてくれたこと、本当に嬉しかった。
+haruka_wav/Yorihime_Nao/NO110041.wav|2|あぁ、ああっ..ご、ゴメンなさいっゴメンなさいっ！
+yosuga_wav/Amatsume_Akira/AK040465.wav|1|おかしなカズちゃん。どうしてわからない事するの？
+yosuga_wav/Kasugano_Sora/SR010350.wav|0|..それは私がする。
+yosuga_wav/Kasugano_Sora/SR011618.wav|0|んっ..ちゅぶっ..ん～..れろっ..ぴちゃ..
+yosuga_wav/Amatsume_Akira/AK021746.wav|1|あ、今度はあたしが奢ってあげるから、遠慮せずガッツリいってね？
+yosuga_wav/Amatsume_Akira/AK020829.wav|1|ふふっ、ぴとっ。
+haruka_wav/Kuranaga_Kozue/KO021527.wav|5|も、もう....春日野君の意地悪。
+yosuga_wav/Amatsume_Akira/AK020805.wav|1|えぇ～？　カズちゃん酷いよぉ、二人とも大丈夫ー？
+yosuga_wav/Kasugano_Sora/SR010643.wav|0|..ハル.....
+yosuga_wav/Yorihime_Nao/NO031666.wav|2|ふふっ、中華料理のプロみたいに出来たら、格好いいんだけどね。
+yosuga_wav/Yorihime_Nao/NO032020.wav|2|これからは素直に、はるちゃんに気持ちを伝えていきたいよ。
+haruka_wav/Ifukube_Yahiro/YH010543.wav|6|それが出来れば苦労しねーよ！
+haruka_wav/Kuranaga_Kozue/KO020674.wav|5|あ～......何となく。
+yosuga_wav/Yorihime_Nao/NO031255.wav|2|ま、またね..はるちゃん..
+haruka_wav/Amatsume_Akira/AK000115.wav|1|というわけで、ハル君、亮兄ちゃん、今日はもしかしたらお弁当一緒に食べられないかも。
+yosuga_wav/Amatsume_Akira/AK020393.wav|1|すぐよくなるよ、もうちょっと休んだら、歩けるから。
+yosuga_wav/Migiwa_Kazuha/KA020307.wav|3|さ、最近、あなたたち仲良さそうだし..それに..この間、海の帰りに送ってくれたでしょ？　無事だったのかなって.
+yosuga_wav/Migiwa_Kazuha/KA020473.wav|3|利かさないでいいの！！！
+yosuga_wav/Kuranaga_Kozue/KO010188.wav|5|...な、なに..？
+yosuga_wav/Nogisaka_Motoka/MT050190.wav|4|って、悠くんはそんなタイプじゃないかな。亮平くんにからかわれたりする感じよね。
+yosuga_wav/Yorihime_Nao/NO030537.wav|2|えっ..
+yosuga_wav/Nogisaka_Motoka/MT051550.wav|4|んんぅっ、ちゅ、んっ、んふぅ、れろ、ちゅぱ、んっ。
+haruka_wav/Kasugano_Sora/SR000248.wav|0|んっ..んふっ..ハルのおちんちん..立ってきたぁ..
+yosuga_wav/Migiwa_Kazuha/KA040463.wav|3|くっ..な、なんでもないわ..それじゃあ。
+haruka_wav/Ifukube_Yahiro/YH010403.wav|6|てめぇ..
+yosuga_wav/Migiwa_Kazuha/KA041141.wav|3|きゃぁっ！？
+haruka_wav/Kuranaga_Kozue/KO021543.wav|5|ああっ、あっ、んっ..な、何だか..切なくなって..
+yosuga_wav/Amatsume_Akira/AK020085.wav|1|うん、いいよっ。穹ちゃんっ、制服脱いでちょうだい！
+haruka_wav/Kasugano_Sora/SR000449.wav|0|んっ...ちゅっ...
+yosuga_wav/Amatsume_Akira/AK021816.wav|1|約束だよ！　さて、それじゃ、そろそろ帰るね。 今日は楽しかったよ。付き合ってくれてありがとう。
+yosuga_wav/Yorihime_Nao/NO032069.wav|2|ぐすっ..ううん..ゴメンなさい..違うのっ..んっ. はるちゃんとこうしてることって..夢じゃないんだって..
+yosuga_wav/Migiwa_Kazuha/KA000005.wav|3|だからっ、そんな軽々しく言わないで！
+haruka_wav/Kasugano_Sora/SR020320.wav|0|......委員長。
+yosuga_wav/Yorihime_Nao/NO030444.wav|2|き、気にしないでって言っても気になると思うから..説明 するね..
+haruka_wav/Kasugano_Sora/SR001247.wav|0|なっ、何..今の柔らかいの...
+haruka_wav/Amatsume_Akira/AK020056.wav|1|あっ、いいんちょーだー！
+haruka_wav/Nogisaka_Motoka/MT010046.wav|4|そーだ！　そーだー！　もう恋なんてしないぞー！
+yosuga_wav/Kasugano_Sora/SR030276.wav|0|ここに居たら、ハルが居なくなっちゃう...
+yosuga_wav/Amatsume_Akira/AK021461.wav|1|二人とも気をつけてね～？
+yosuga_wav/Kasugano_Sora/SR020212.wav|0|...子供扱いしないで。
+haruka_wav/Kasugano_Sora/SR001138.wav|0|それって、パパのお仕事関係の人かな...
+yosuga_wav/Nogisaka_Motoka/MT051293.wav|4|あ、あれー、穹ちゃんー？　なんで寝ちゃうのかなぁ？
+yosuga_wav/Yorihime_Nao/NO030562.wav|2|うぅぅっ...ゴメンね、あんまり役に立てなくて。
+yosuga_wav/Migiwa_Kazuha/KA010124.wav|3|なっ..そ、そんな子供みたいな変な言い回しに、付き合わせないで！
+yosuga_wav/Amatsume_Akira/AK022003.wav|1|そうなんだ？
+haruka_wav/Migiwa_Kazuha/KA020146.wav|3|くっ、この人に真面目な顔で言われるとさらにムカツクわ。
+yosuga_wav/Nogisaka_Motoka/MT051427.wav|4|なのに、私の心はときめかない。
+yosuga_wav/Amatsume_Akira/AK020391.wav|1|ここからもう少し降りたら社務所の裏だよ、だから歩いて降りられるよ。
+yosuga_wav/Kuranaga_Kozue/KO000005.wav|5|それと..あ、あの..もし良かったら、このあと学校の..あ、あんな.ぃ..
+haruka_wav/Kasugano_Sora/SR020306.wav|0|......ん、わかった。妥協する。
+haruka_wav/Kuranaga_Kozue/KO021516.wav|5|ノ、ノーコメントですっ！
+haruka_wav/Nogisaka_Motoka/MT100026.wav|4|ひっどぉい！！　そんな変な呼び方しないでよ！！
+haruka_wav/Kuranaga_Kozue/KO021844.wav|5|わ、わかりました。悠君の思惑にまんまと乗せられている気がしないでもないですが..
+haruka_wav/Ifukube_Yahiro/YH011219.wav|6|それもあるが、そうじゃなくて..悠は..ちんこ弄られてんだからイクだろうがよ..あたしは、乳首だけなんだぞ..？
+yosuga_wav/Migiwa_Kazuha/KA020382.wav|3|どうして、そんな簡単に..お姉ちゃんを奪っていくの？
+haruka_wav/Kasugano_Sora/SR000243.wav|0|んふっ..
+haruka_wav/Kuranaga_Kozue/KO020857.wav|5|えっ！？　ヤ、ヤダなあ～穹さんまで！　 ですから私は催促する気なんか全然..
+yosuga_wav/Nogisaka_Motoka/MT050851.wav|4|はいはい。じゃあ、お嬢様、瑛ちゃんに目隠しです！
+yosuga_wav/Nogisaka_Motoka/MT051264.wav|4|その帰り道の途中で、携帯の着信音が鳴る。
+haruka_wav/Kuranaga_Kozue/KO021443.wav|5|あっ、春日野君..
+yosuga_wav/Amatsume_Akira/AK021465.wav|1|あはははっ！　それそれー！！
+yosuga_wav/Migiwa_Kazuha/KA040204.wav|3|..私のです。たぶん、家から..
+yosuga_wav/Kasugano_Sora/SR011667.wav|0|..わっ、私の中で.ハルのおちんちん、暴れてるみたい..
+yosuga_wav/Kasugano_Sora/SR020068.wav|0|...遅い。
+yosuga_wav/Kasugano_Sora/SR030038.wav|0|さあって..食べられるの作ってよ。
+yosuga_wav/Kasugano_Sora/SR010081.wav|0|..だから子供扱いしないでよっ。それぐらい持ってるから。
+yosuga_wav/Amatsume_Akira/AK040220.wav|1|奈緒お姉ちゃんがお茶でー、穹ちゃんはみかんジュースっと。
+yosuga_wav/Kasugano_Sora/SR050140.wav|0|『勝手にすれば？』
+yosuga_wav/Kasugano_Sora/SR020057.wav|0|むっ..子供扱いしないで..
+haruka_wav/Amatsume_Akira/AK000164.wav|1|ぽん！！！！
+haruka_wav/Yorihime_Nao/NO020054.wav|2|ええっ！？　着いたばっかりなのに寝るって、穹ちゃん..
+yosuga_wav/Nogisaka_Motoka/MT051554.wav|4|はぁむっ、ちゅぱ、れろっ、んんっ、ぢゅちゅ、れろっ..んふぁ..れろっ、じゅぱ、じゅる、ちゅくんっ。
+haruka_wav/Kuranaga_Kozue/KO020090.wav|5|あ、秘密というのはちょっと大げさでしょうか。ただ単に私が知らなかっただけですから。
+yosuga_wav/Nogisaka_Motoka/MT050716.wav|4|すみません。
+yosuga_wav/Amatsume_Akira/AK021020.wav|1|あっ..ああんっ..やだっ..恥ずかしいよぅ..
+yosuga_wav/Amatsume_Akira/AK040375.wav|1|あたしもプレゼントあるんだよー？
+yosuga_wav/Yorihime_Nao/NO031669.wav|2|でも、こっちに引っ越してきた時に比べたら、だいぶ上達しているよ。
+yosuga_wav/Migiwa_Kazuha/KA020004.wav|3|あ、瑛？　急にビックリするじゃない！
+haruka_wav/Amatsume_Akira/AK110020.wav|1|うちの師匠の真似して！　ほら！　にゃあ～ん～！
+yosuga_wav/Yorihime_Nao/NO030768.wav|2|特に決めてないけど適当にね。はるちゃん来てくれたし、 そろそろ泳ごうかな。
+yosuga_wav/Amatsume_Akira/AK020462.wav|1|じゃあ、あたし達も道祖神用のお飾りを作っちゃおうか！
+haruka_wav/Ifukube_Yahiro/YH010851.wav|6|こっ、今度はあたしにやらせろっ。
+yosuga_wav/Migiwa_Kazuha/KA040941.wav|3|いただきます....ふふ。
+yosuga_wav/Kasugano_Sora/SR010188.wav|0|一緒にいられたら..それだけで良かったから。
+yosuga_wav/Yorihime_Nao/NO030991.wav|2|ふふっ、なんか色っぽいね、はるちゃん痩せてるし、線細いから。
+yosuga_wav/Kuranaga_Kozue/KO010146.wav|5|ごめんなさい、急にお邪魔しちゃって。
+haruka_wav/Amatsume_Akira/AK100040.wav|1|あと、お料理上手なんだよ。いつも家のお手伝いをしてる優しいお姉ちゃん。
+yosuga_wav/Amatsume_Akira/AK040184.wav|1|あたしの事で、またカズちゃんに嫌な思いさせちゃったね。ゴメンね..
+yosuga_wav/Migiwa_Kazuha/KA020584.wav|3|私、平気なつもりだったけど..今は怖いわ。
+haruka_wav/Migiwa_Kazuha/KA020069.wav|3|はい。本来なら私が行くべきなんですが、生憎これからお客様の挨拶回りに行かなくてはいけなくて..
+yosuga_wav/Nogisaka_Motoka/MT050093.wav|4|そうなのっ！　必死になんかなってないんだからっ！
+yosuga_wav/Kasugano_Sora/SR020161.wav|0|....暑い。
+yosuga_wav/Amatsume_Akira/AK020428.wav|1|はい、ハル君、タオル。お水飲んだりしてない？
+yosuga_wav/Kasugano_Sora/SR030070.wav|0|..エアコン。
+yosuga_wav/Yorihime_Nao/NO030798.wav|2|あんまり気負いすぎると、逆に保たないよっ？　それに、頭が痛くなって来ちゃったら危ないし。
+yosuga_wav/Nogisaka_Motoka/MT051054.wav|4|え、えっと、バトンタッチ？
+haruka_wav/Kuranaga_Kozue/KO021244.wav|5|あ、あの、もうこんな時間ですしこのまま泊まってもらっても全然構わないんですけど..
+haruka_wav/Kasugano_Sora/SR000249.wav|0|おっきくなっても可愛いね、これ..んっ..
+yosuga_wav/Yorihime_Nao/NO040086.wav|2|どうしたの、はるちゃん？　なんか嬉しそうな顔してるよ？
+haruka_wav/Migiwa_Kazuha/KA100016.wav|3|えっ、なにそれ！？
+yosuga_wav/Amatsume_Akira/AK020932.wav|1|ハル君、今日はありがとうね。
+yosuga_wav/Yorihime_Nao/NO031221.wav|2|き、キスして..ちゅっ.んぅっ..んふーっ、んんぅっ！！
+haruka_wav/Ifukube_Yahiro/YH010127.wav|6|そこそこ儲かるらしいが..ま、ぜってーねえな。
+yosuga_wav/Migiwa_Kazuha/KA040637.wav|3|一応、瑛の方が早く生まれたの。日付は同じなんだけど、時間的にね。
+haruka_wav/Amatsume_Akira/AK020123.wav|1|カズちゃんカズちゃん。亮兄ちゃんがね、カズちゃんには絶対ハイレグ着てほしいって！
+haruka_wav/Migiwa_Kazuha/KA000074.wav|3|はぁはぁ..おっ、おはようございます..
+haruka_wav/Kasugano_Sora/SR000501.wav|0|えっ..どうしたの、ハル？
+yosuga_wav/Kasugano_Sora/SR020283.wav|0|...持ってくるのが、めんどい。
+yosuga_wav/Yorihime_Nao/NO030705.wav|2|ゆっくり行こうね？　今度は競争じゃないし。
+haruka_wav/Nogisaka_Motoka/MT020025.wav|4|あはははー、まあその辺は気にしないで。で、倉永さんって、もしかしてウチのご近所の倉永さん？
+yosuga_wav/Kasugano_Sora/SR050041.wav|0|..初佳..あの、メイドの..？
+haruka_wav/Kuranaga_Kozue/KO021159.wav|5|......そうだ。携帯買わなくちゃ。
+yosuga_wav/Yorihime_Nao/NO031996.wav|2|ちゅぶっ！　ちゅっ！　んぅっ！　んっ！　んはぁっ..お口の中..いっぱい犯されてるみたい..んぶぅぅっ！！
+yosuga_wav/Nogisaka_Motoka/MT050343.wav|4|ホントよねぇ、美人は何着ても様になるっていうか..
+haruka_wav/Kasugano_Sora/SR000754.wav|0|あはぁ..どんどん固くなってく..ハルのおちんちん.. ちゅっ..ちゅぶっ..んっ...はぁはぁ...
+yosuga_wav/Amatsume_Akira/AK021156.wav|1|じゃ、行こ！　あたし、お腹すいちゃったよ。 ハル君も！
+yosuga_wav/Yorihime_Nao/NO031041.wav|2|..えっ...
+yosuga_wav/Nogisaka_Motoka/MT051476.wav|4|ほうね..
+haruka_wav/Ifukube_Yahiro/YH010636.wav|6|無意識かよ、柔らかいとか大きいとか、そういう事考えるん じゃないのかよ、普通はよ。
+yosuga_wav/Migiwa_Kazuha/KA040066.wav|3|..似合ってます。前のも格好良かったと思いますけど、今のも。
+yosuga_wav/Ifukube_Yahiro/YH020017.wav|6|いたら、あたしのメシなんか作るはずねーだろ？
+haruka_wav/Amatsume_Akira/AK020042.wav|1|ＯＫ、亮兄ちゃん。せ～の！
+yosuga_wav/Amatsume_Akira/AK021289.wav|1|えへっ、男の子を胸で泣かすのと、お腹の上で泣かすのって、どっちが凄いんだっけ？
+yosuga_wav/Kasugano_Sora/SR011638.wav|0|..あふっ..んっ..コクコクッ..んふーっ..あぁ..
+yosuga_wav/Amatsume_Akira/AK040156.wav|1|カズちゃんのお母さんと何かあったの？
+haruka_wav/Kuranaga_Kozue/KO100108.wav|5|あ、依媛先輩！
+yosuga_wav/Ifukube_Yahiro/YH050048.wav|6|ほっといてやれ。就職浪人で出戻りだ、なんて恥ずかしくて言えねえんだよ。
+yosuga_wav/Kasugano_Sora/SR020157.wav|0|....もういい。
+haruka_wav/Ifukube_Yahiro/YH010283.wav|6|（ははぁ～ん？　こいつ、照れてやがるな？）
+yosuga_wav/Kasugano_Sora/SR011191.wav|0|きゃっ..ふふっ、ねぇハル、キスして...
+yosuga_wav/Amatsume_Akira/AK020848.wav|1|みんなと同じぐらい、一緒にいると楽しいけど..それだけ じゃないかな。
+yosuga_wav/Nogisaka_Motoka/MT040050.wav|4|あぁ..最悪だわ..なんてとこ見られちゃったのかしら..バカバカ、私のバカ..海に来たからって油断しすぎよぉ..
+haruka_wav/Ifukube_Yahiro/YH011041.wav|6|おい、悠。
+haruka_wav/Kasugano_Sora/SR000196.wav|0|私の気持ちだけでは、何も解決しないことだってある.. でも..少しでも楽にしてあげたいから..
+yosuga_wav/Yorihime_Nao/NO030552.wav|2|はるちゃん、出来なくて可愛いっていうのは、微妙に褒め言葉じゃないかもしれないけど.フォローしてくれてありがとう。
+haruka_wav/Kuranaga_Kozue/KO021141.wav|5|はーい、三個お買い上げでーす！　お金はこの空き缶に入れておけばいいのかな？　かな？　あはっ、あはははははっ！！
+haruka_wav/Kasugano_Sora/SR000485.wav|0|そうなんだ..ハルはクッキー嫌いだったんだ。
+yosuga_wav/Amatsume_Akira/AK020842.wav|1|ん？
+haruka_wav/Nogisaka_Motoka/MT110011.wav|4|でも、仕事中って、すっごく時間が過ぎるのが遅く感じるんだよねぇ..なんでだろ？　なんとか理論とか、聞いたことあるんだけど
+haruka_wav/Kuranaga_Kozue/KO021925.wav|5|は..はい..わかりました....ちゅるる..
+yosuga_wav/Kasugano_Sora/SR010763.wav|0|ちゅぶちゅぶ..んぅぅぅぅ..ちゅぼっ..はぁ、はぁ..
+yosuga_wav/Kuranaga_Kozue/KO010044.wav|5|そうなんだ..
+yosuga_wav/Yorihime_Nao/NO000041.wav|2|ごめんくださーい！
+yosuga_wav/Migiwa_Kazuha/KA010013.wav|3|..やっぱり兄妹だからなんでしょうか。
+yosuga_wav/Kasugano_Sora/SR050007.wav|0|..付いてない..
+yosuga_wav/Amatsume_Akira/AK020979.wav|1|..ハル君は？
+yosuga_wav/Migiwa_Kazuha/KA050051.wav|3|何と言ったかは覚えていませんが、別の植物の香りを付けた物です。ハーブティーではなかったと思いますが..
+haruka_wav/Kasugano_Sora/SR000286.wav|0|だぁめっ..んふっ..ちゅぶっ..ちゅっ...んっ..
+yosuga_wav/Amatsume_Akira/AK021775.wav|1|ううん、お兄ちゃんをあんまり借り過ぎちゃうと、次から貸して貰えなくなっちゃうから。
+yosuga_wav/Kasugano_Sora/SR011439.wav|0|なら..今まで通りで、いいの？
+haruka_wav/Amatsume_Akira/AK020033.wav|1|あははー、ごめんね～。いいんちょーがお尻触ってるの見たらついつい..
+yosuga_wav/Yorihime_Nao/NO010127.wav|2|穹ちゃん、可愛い～！　今日はお洒落してきたんだね。
+yosuga_wav/Yorihime_Nao/NO030495.wav|2|そういうものよね。私はここで育ったから、ここでの現実が当たり前だと思ってるし。
+yosuga_wav/Yorihime_Nao/NO030082.wav|2|オハヨ、はるちゃん。
+haruka_wav/Kuranaga_Kozue/KO020227.wav|5|中里さんには聞いてません。
+haruka_wav/Amatsume_Akira/AK000104.wav|1|あはー、大丈夫っ？　穹ちゃん？
+yosuga_wav/Nogisaka_Motoka/MT030109.wav|4|なんか急用？　だったら、携帯鳴らしてもいいけど。
+yosuga_wav/Kasugano_Sora/SR010352.wav|0|ほら..ハルは休んでて。
+yosuga_wav/Yorihime_Nao/NO031839.wav|2|木立の下で、震えながら雨が降るのをずっと見ていた。
+yosuga_wav/Kasugano_Sora/SR011264.wav|0|ハルッ、もっと気持ちよくなろっ？　あっああああっ！！
+haruka_wav/Kuranaga_Kozue/KO000030.wav|5|先生が提出して欲しいプリントがあるそうです。 それで職員室まで来て欲しいそうですけど..
+yosuga_wav/Kasugano_Sora/SR000134.wav|0|..何で？
+yosuga_wav/Migiwa_Kazuha/KA050034.wav|3|すみません。声がしたので勝手に上がらせて..あら。
+haruka_wav/Kuranaga_Kozue/KO021146.wav|5|えっ？　ええっ？　あ、あのっ、穹さん？
+yosuga_wav/Migiwa_Kazuha/KA040589.wav|3|じゃあ..りんごで。
+yosuga_wav/Kasugano_Sora/SR030259.wav|0|...ハル...
+yosuga_wav/Migiwa_Kazuha/KA040906.wav|3|んっ、ふあっ..あっ、いっ..んん、ああっ..あんっ、はあんっ！
+yosuga_wav/Kasugano_Sora/SR011319.wav|0|..だったら？
+yosuga_wav/Amatsume_Akira/AK021061.wav|1|んっ..ちゅっ..あはっ..こうしてると、痛いのも飛んでいきそう..
+yosuga_wav/Yorihime_Nao/NO020121.wav|2|肌に合わなかったら、使わなくていいからね。 アレルギーのパッチも入ってるから。
+yosuga_wav/Migiwa_Kazuha/KA040121.wav|3|ばっ、バカじゃないの！？　そんな無茶してもう..
+yosuga_wav/Nogisaka_Motoka/MT050355.wav|4|キミにはもっと包容力があって、人をいたわれる人物になって欲しいの。
+yosuga_wav/Nogisaka_Motoka/MT050240.wav|4|でも、塵は私をあざ笑うみたいに逃げ回って、一つ所に集まらない。
+haruka_wav/Ifukube_Yahiro/YH010469.wav|6|そう言うの抜きでならいいんだけどさ。
+yosuga_wav/Nogisaka_Motoka/MT050393.wav|4|あうあうあう..
+yosuga_wav/Amatsume_Akira/AK040441.wav|1|デートどうだっ..んくっ！？
+yosuga_wav/Amatsume_Akira/AK020404.wav|1|いいんだよっ、あたしおっちょこちょいだから、いつか別の形で無くしちゃってたかもしれないし。
+haruka_wav/Kuranaga_Kozue/KO021493.wav|5|や、やめてくださ～い！　 恥ずかしすぎて本当に死んじゃいますぅ～～～！！
+yosuga_wav/Ifukube_Yahiro/YH020151.wav|6|ま、上手く頼めたらやってみろ。とりあえず、お前の家に届くように申し込んどいてやる。ここに来たら、一発で瑛にバレるからな。
+yosuga_wav/Amatsume_Akira/AK040228.wav|1|はいっ、カズちゃんとハル君の分。さー、みんなの所に戻ろっかー。
+yosuga_wav/Kasugano_Sora/SR050183.wav|0|..期待して損した。
+yosuga_wav/Migiwa_Kazuha/KA020098.wav|3|い・や・よ！　もう呼ばない。
+haruka_wav/Kuranaga_Kozue/KO021978.wav|5|あふっ、あふっ、んんっ、んんぅっ、ふあぁっっ.... す、すごい..いっぱい..突かれて..はあぁっっ！
+yosuga_wav/Amatsume_Akira/AK021246.wav|1|えへへっ、そんなこと言われると、本気にしちゃうよ？
+yosuga_wav/Kasugano_Sora/SR030039.wav|0|えっ...正気？
+haruka_wav/Kuranaga_Kozue/KO022034.wav|5|あれ、おかしいな？　何だか記憶があいまいというか.. この夏の出来事がうまく思い出せません。
+yosuga_wav/Yorihime_Nao/NO031683.wav|2|ふふっ、面白いね、穹ちゃん。
+yosuga_wav/Amatsume_Akira/AK040179.wav|1|もしかしたら、あたしがひろ姉ちゃんの所にいるって、カズ ちゃん思うかもって、来てみたんだ。
+yosuga_wav/Migiwa_Kazuha/KA040909.wav|3|あっ、あっ、何か、ふぁっ、くるっ..熱いのが、あっ、奥から..あんっ、ああっっ..！！
+yosuga_wav/Kuranaga_Kozue/KO010222.wav|5|いっ、いただきます...
+yosuga_wav/Amatsume_Akira/AK021320.wav|1|吸われるのと、舐められるのどっちがいいかな..こっち？
+haruka_wav/Nogisaka_Motoka/MT020042.wav|4|そう、すぐなの！　わかる、この気持ち！？
+yosuga_wav/Amatsume_Akira/AK040501.wav|1|はわっ..寝てない！　寝てないよ？
+yosuga_wav/Migiwa_Kazuha/KA050092.wav|3|なっ、何っ！？　私が作ったら変だって言うのっ？
+yosuga_wav/Yorihime_Nao/NO031849.wav|2|でもそれは.慣れたものだ。
+haruka_wav/Kuranaga_Kozue/KO021505.wav|5|あふっ..そ、そう..そんな感じです..それからこう..持ち上げる感じで..
+yosuga_wav/Kasugano_Sora/SR010087.wav|0|..っく。
+yosuga_wav/Migiwa_Kazuha/KA040700.wav|3|..ううん。
+yosuga_wav/Yorihime_Nao/NO032070.wav|2|初めての時..何もよくわかってなかったはるちゃんを、騙すみたいにして..んっ..あぁっ..
+haruka_wav/Amatsume_Akira/AK000022.wav|1|お帰り、ハル君。
+haruka_wav/Kasugano_Sora/SR020014.wav|0|....知らない。
+haruka_wav/Ifukube_Yahiro/YH010032.wav|6|余計なもん付けんなっての。
+yosuga_wav/Nogisaka_Motoka/MT040056.wav|4|お茶をお持ちいたしました....って悠くんじゃない！
+yosuga_wav/Amatsume_Akira/AK030023.wav|1|ホントにー？　ありがとー！！
+yosuga_wav/Kasugano_Sora/SR000137.wav|0|..何で？
+haruka_wav/Kasugano_Sora/SR001372.wav|0|乳首っ..そんなに吸われてもっ..おっぱい出ないよぅ..
+yosuga_wav/Amatsume_Akira/AK021429.wav|1|はぁはぁはぁはぁっ..んっ、あっ..あぁぁっ..
+yosuga_wav/Amatsume_Akira/AK021191.wav|1|あははっ、ハル君、上手いうまーい！
+yosuga_wav/Migiwa_Kazuha/KA040053.wav|3|ワン....犬、ですか？
+yosuga_wav/Yorihime_Nao/NO031250.wav|2|はるちゃん..
+yosuga_wav/Amatsume_Akira/AK021287.wav|1|..久しぶりだね、ハル君が来てくれたの。
+yosuga_wav/Migiwa_Kazuha/KA030030.wav|3|瑛が釣ってるのを、横取りされちゃうわよ。
+yosuga_wav/Yorihime_Nao/NO031363.wav|2|..何よ？
+haruka_wav/Kuranaga_Kozue/KO020100.wav|5|とにかく、偶然とはいえ事情を知った以上、私も負けていられません。委員長としてバッチリ春日野君をフォローして..
+yosuga_wav/Amatsume_Akira/AK020123.wav|1|準備するから、もうちょっと待っててね。
+haruka_wav/Yorihime_Nao/NO110014.wav|2|はるちゃん達とは、ご近所さんで幼なじみなんですよ。
+yosuga_wav/Nogisaka_Motoka/MT050075.wav|4|あはは、ありがと。
+yosuga_wav/Nogisaka_Motoka/MT050407.wav|4|うぅ、ありがと..悠くんはいい子ね..
+yosuga_wav/Migiwa_Kazuha/KA040972.wav|3|うん..
+yosuga_wav/Amatsume_Akira/AK020571.wav|1|そうだね、でもどれも目移りして困るよー。
+yosuga_wav/Amatsume_Akira/AK020514.wav|1|こんばんは、カズちゃんのお母さん。
+yosuga_wav/Nogisaka_Motoka/MT051156.wav|4|なんで悠くんが謝るの？
+haruka_wav/Kuranaga_Kozue/KO020784.wav|5|なっ！？
+yosuga_wav/Migiwa_Kazuha/KA020301.wav|3|ねぇ..
+haruka_wav/Kuranaga_Kozue/KO020089.wav|5|偶然にも私は、春日野君の秘密を知ってしまいました。
+yosuga_wav/Amatsume_Akira/AK021477.wav|1|絶対だよ？
+yosuga_wav/Kasugano_Sora/SR010553.wav|0|..どれでもいい。
+haruka_wav/Migiwa_Kazuha/KA000054.wav|3|あなたたちまで写さないでよね！！　春日野君のために貸したんだから。
+yosuga_wav/Migiwa_Kazuha/KA020338.wav|3|あははっ！　そういえば。
+yosuga_wav/Yorihime_Nao/NO032092.wav|2|えっ..？　んぅっ！　あぁんっ！　ひっ！！
+yosuga_wav/Migiwa_Kazuha/KA020061.wav|3|瑛、今日は外で食べましょ？
+haruka_wav/Kasugano_Sora/SR030011.wav|0|何でもない...
+yosuga_wav/Migiwa_Kazuha/KA041522.wav|3|....お姉ちゃん....ごめん..ごめんね..
+haruka_wav/Migiwa_Kazuha/KA020107.wav|3|うっ、これは！
+haruka_wav/Kuranaga_Kozue/KO020350.wav|5|（メイド的だからご近所付き合いに疎い？？？　 乃木坂さんの言ってることは、さっぱり意味がわかりません）
+yosuga_wav/Amatsume_Akira/AK010210.wav|1|えっ、どこどこ？　面白いところ？
+yosuga_wav/Amatsume_Akira/AK021664.wav|1|よかったね、ハル君。えっとねー、これが美味しいよ。それとこれが安くてもおっきいし。
+yosuga_wav/Amatsume_Akira/AK010131.wav|1|それじゃ、早速だけど勉強会はじめよーか！
+yosuga_wav/Migiwa_Kazuha/KA040738.wav|3|ちょ、ちょっと..瑛..そこは..
+yosuga_wav/Ifukube_Yahiro/YH040045.wav|6|やひろさん..じゃねーんだよ。ったく邪魔しやがって..
+yosuga_wav/Migiwa_Kazuha/KA020507.wav|3|私と瑛に？　わかったわ、ここじゃいつ瑛と出くわすかわからないから、私の部屋に来て。
+yosuga_wav/Kasugano_Sora/SR010807.wav|0|...おかえりなさい。
+yosuga_wav/Kuranaga_Kozue/KO020006.wav|5|まったくあなたたちは.....
+haruka_wav/Kuranaga_Kozue/KO100102.wav|5|あっ..あのぉー？
+yosuga_wav/Kasugano_Sora/SR050209.wav|0|ひっ..
+haruka_wav/Kuranaga_Kozue/KO100048.wav|5|依媛先輩..前の学校でも何度も見かけたことがあったけど、こんな気さくな人だとは思わなかった。
+haruka_wav/Kasugano_Sora/SR000674.wav|0|ふふっ、早く来てね。
+haruka_wav/Kasugano_Sora/SR000351.wav|0|はぁはぁっ..ああんっ！　あっあぐっ..んあぁぁぁっ！！
+haruka_wav/Kuranaga_Kozue/KO100020.wav|5|..えっ..
+yosuga_wav/Amatsume_Akira/AK040061.wav|1|じゃあねー、みんなでアイス食べに行こうよ！
+haruka_wav/Kuranaga_Kozue/KO020858.wav|5|（そっちですか！？　お前なんか勝手に水でも飲んでろってことですねーーーーーー！！）
+haruka_wav/Ifukube_Yahiro/YH010752.wav|6|男って奴は、見た目通りには行かねぇモンなんだな..
+yosuga_wav/Amatsume_Akira/AK010194.wav|1|ハル君も穹ちゃんも今日はありがとうね。大変だったっしょ？
+yosuga_wav/Nogisaka_Motoka/MT050852.wav|4|お嬢様っ、それじゃスイカ割りになりませんよー。 こう、しっかり..目隠ししないと。
+yosuga_wav/Yorihime_Nao/NO032170.wav|2|えーっ、アイツを？
+yosuga_wav/Amatsume_Akira/AK030148.wav|1|そっかぁ、じゃあお土産に梨とか持っていっても、食べないかな？
+yosuga_wav/Nogisaka_Motoka/MT050136.wav|4|....ん....んんぅ～....
+yosuga_wav/Amatsume_Akira/AK020097.wav|1|あはーっ、ハル君も行こう？
+yosuga_wav/Yorihime_Nao/NO030772.wav|2|あ、はるちゃん、早かったね。
+yosuga_wav/Migiwa_Kazuha/KA040430.wav|3|..これっきりだから..もう二度と助けないから..
+yosuga_wav/Migiwa_Kazuha/KA040245.wav|3|！！
+yosuga_wav/Kasugano_Sora/SR010491.wav|0|帰る。
+yosuga_wav/Amatsume_Akira/AK030027.wav|1|ありがとー。
+yosuga_wav/Amatsume_Akira/AK020940.wav|1|ハル君は、カズちゃんのことが大好きなんだね。真剣に考えて大事に思っているんだもん。
+yosuga_wav/Kasugano_Sora/SR010080.wav|0|..午前中で帰れないの？
+yosuga_wav/Migiwa_Kazuha/KA040341.wav|3|確かにそうよね..あの子を見てると、悩んでる自分が馬鹿馬鹿しくて、逆にムッとする時もあるわ。
+yosuga_wav/Yorihime_Nao/NO010309.wav|2|ふ～ん..なんかそういうの、羨ましいなぁ。
+yosuga_wav/Amatsume_Akira/AK020060.wav|1|お邪魔しまーす！
+haruka_wav/Kasugano_Sora/SR000712.wav|0|ひゃうっ！！
+haruka_wav/Amatsume_Akira/AK020003.wav|1|あははー、バレちゃった？
+yosuga_wav/Migiwa_Kazuha/KA041070.wav|3|あっ、奥まで、当たって..だめぇ..止まらないっ..見つかったら、大変なのにっ..
+yosuga_wav/Amatsume_Akira/AK040307.wav|1|ちゃんと踊ったよー？
+yosuga_wav/Kuranaga_Kozue/KO010134.wav|5|そんなこと無いと思いますけど..穹さんで太ってるなんて 言ったら、私なんか..ああぁぁ..
+yosuga_wav/Kasugano_Sora/SR010139.wav|0|..よくわかんないけど..
+yosuga_wav/Yorihime_Nao/NO030586.wav|2|でしょ？　同じ材料使ってても、こんなに味が変わっちゃうって、職人さんって凄いよね。
+yosuga_wav/Yorihime_Nao/NO031842.wav|2|でも..バスで行ってしまった二人...
+yosuga_wav/Migiwa_Kazuha/KA020104.wav|3|とにかく、中里先輩みたいに、瑛と悪ノリが過ぎるようだったら、今度から容赦しないんだから！
+yosuga_wav/Amatsume_Akira/AK040164.wav|1|あー、カズちゃん戻って来たー。帰ろ、帰ろー。
+haruka_wav/Kuranaga_Kozue/KO022020.wav|5|......すぅ..すぅ..すぅ..すぅ....
+haruka_wav/Kuranaga_Kozue/KO020974.wav|5|はいどうぞ、選んでください！
+yosuga_wav/Amatsume_Akira/AK020018.wav|1|ひゃぁん！！　あわわわわわっ....
+haruka_wav/Nogisaka_Motoka/MT010014.wav|4|それに..やひろがいなくなった途端、みんな私から興味無くすし..
+yosuga_wav/Amatsume_Akira/AK021638.wav|1|あー、ゴメンね、亮兄ちゃん、気が利かなくて。
+yosuga_wav/Amatsume_Akira/AK021761.wav|1|えっ、ホントに？　一緒に行ってくれるの？
+haruka_wav/Kuranaga_Kozue/KO020368.wav|5|は、はぁ..すぐですか？
+yosuga_wav/Kasugano_Sora/SR011410.wav|0|私の名前と、ハルの名前。
+yosuga_wav/Amatsume_Akira/AK020707.wav|1|カズちゃんは、なんにする？
+yosuga_wav/Migiwa_Kazuha/KA020282.wav|3|..全く..何しに来たのよ..
+yosuga_wav/Ifukube_Yahiro/YH020116.wav|6|やるんだったら、瑛から泣かれても、嫌われてもかまわねーって思えるぐらい覚悟しろ。できねーなら、何もするな。
+yosuga_wav/Yorihime_Nao/NO010103.wav|2|ごめんね、穹ちゃん....
+haruka_wav/Kuranaga_Kozue/KO020832.wav|5|（そ、そう、素敵な彼氏と....）
+haruka_wav/Ifukube_Yahiro/YH010816.wav|6|ま、なら無理すんな。
+haruka_wav/Nogisaka_Motoka/MT110008.wav|4|もー、そんな、ヘマしないってぇ、大人なんだからぁ！
+yosuga_wav/Amatsume_Akira/AK022133.wav|1|はぁはぁはぁっ..まだ体中がぴりぴりして.しびれてるよ.
+haruka_wav/Amatsume_Akira/AK030004.wav|1|うん、これからカズちゃんとデートなんだ。
+yosuga_wav/Kuranaga_Kozue/KO020024.wav|5|中里さん、先生が職員室まで来て欲しいとのことです。
+yosuga_wav/Nogisaka_Motoka/MT050550.wav|4|次は大人のキス、行ってみようね。
+yosuga_wav/Kasugano_Sora/SR010840.wav|0|..手伝う...
+haruka_wav/Nogisaka_Motoka/MT010072.wav|4|ねーねーやひろー、こないだの海でさー、悠くんカッコ良かったよねー。
+haruka_wav/Kuranaga_Kozue/KO000044.wav|5|ふふっ、ホントです、取り越し苦労でしたね。
+yosuga_wav/Kasugano_Sora/SR000122.wav|0|..覚えてない。
+yosuga_wav/Migiwa_Kazuha/KA020421.wav|3|春日野君も、男だからって、いい加減にしてたらダメよ？
+yosuga_wav/Yorihime_Nao/NO031200.wav|2|あぁぁ..ゾクゾクしちゃうっ..んぁぁっ..あっ..もう一回..そこにキスして.んっ..
+haruka_wav/Kasugano_Sora/SR020155.wav|0|それに、ここは学校じゃない。
+yosuga_wav/Migiwa_Kazuha/KA041480.wav|3|あふ..はぁ..はる、かぁ..ぁふ..
+haruka_wav/Kasugano_Sora/SR000982.wav|0|...フッ...
+haruka_wav/Kuranaga_Kozue/KO021248.wav|5|大体の事情は春日野君から伺いました。穹さんが不安になる気持ちはよくわかりますし、ご両親を亡くされた悲しみは私には想像もつ
+yosuga_wav/Yorihime_Nao/NO031698.wav|2|！？
+haruka_wav/Kuranaga_Kozue/KO021307.wav|5|あーーーーーーーーーーーーっ！！　 告白する前に告白するって言っちゃったーーーーーー！！
+yosuga_wav/Amatsume_Akira/AK020084.wav|1|普段、なにかと使いそうな道具は、いつもここに入れて あるんだ～。
+yosuga_wav/Nogisaka_Motoka/MT050575.wav|4|ううん、やめない..ほら、ここ..固くなってるわよ..
+haruka_wav/Kuranaga_Kozue/KO100066.wav|5|でも、なぜここに引っ越してきたかの理由までは、私は聞いていません。都会育ちなのに、何故便利そうな場所からここを選んだので
+yosuga_wav/Amatsume_Akira/AK020583.wav|1|無理しないでねっ。おばちゃんが来てくれるだけであたし嬉しいよ。
+haruka_wav/Kuranaga_Kozue/KO020685.wav|5|す、すみません！　私ったら調子に乗って！
+haruka_wav/Yorihime_Nao/NO100014.wav|2|倉永さんね。
+yosuga_wav/Amatsume_Akira/AK021838.wav|1|ううんっ、すっごく美味しいから、あたしも食べたいよ！ パンに入れるとたまんないんだよ！
+yosuga_wav/Kasugano_Sora/SR040115.wav|0|..ん。
+yosuga_wav/Amatsume_Akira/AK030156.wav|1|いいよぉ、そんな高いのいらないって。カズちゃんがお花持ってきてくれるだけで、すっごく嬉しいよ。
+yosuga_wav/Amatsume_Akira/AK010172.wav|1|町の中に、沢山の道祖神があったでしょ？
+yosuga_wav/Amatsume_Akira/AK021105.wav|1|あぁぁっ..あーっ..あっ..あ、あっ....
+haruka_wav/Kuranaga_Kozue/KO021719.wav|5|シ、シアトル系？　あ、いえ、喫茶店..じゃなくてコーヒー屋さんだってことは見ればわかりますよ、はい！
+yosuga_wav/Nogisaka_Motoka/MT051105.wav|4|難しいの？
+yosuga_wav/Amatsume_Akira/AK020861.wav|1|んにゃ？
+haruka_wav/Ifukube_Yahiro/YH011091.wav|6|そっちの文句言ってんじゃねー！
+yosuga_wav/Yorihime_Nao/NO032055.wav|2|ちゅぅぅっ..んふーっ..んーっ..んぅぅっ！！！
+yosuga_wav/Yorihime_Nao/NO050019.wav|2|どうしたの？　..もしかして、困った事でも起きた？
+yosuga_wav/Amatsume_Akira/AK040316.wav|1|はいっ、穹ちゃんの分っ！
+yosuga_wav/Amatsume_Akira/AK000097.wav|1|そして、ぱんぱんって二回手を鳴らして、お願い事でも、 何でもいいから神様に伝えるんだよっ。
+haruka_wav/Kuranaga_Kozue/KO021221.wav|5|聞いたら教えてくれるかな、春日野君..
+yosuga_wav/Migiwa_Kazuha/KA040224.wav|3|うっ、うぅ..
+yosuga_wav/Yorihime_Nao/NO000016.wav|2|あまりに突然で久しぶりだったから、つい..ごめんなさい。
+yosuga_wav/Migiwa_Kazuha/KA040209.wav|3|でも、瑛..
+yosuga_wav/Yorihime_Nao/NO031973.wav|2|んふっ..はるちゃん..もっと気持ちよくなってね..
+haruka_wav/Ifukube_Yahiro/YH010522.wav|6|そんな風に受け取られるなんて、思いもしなかったんだ..
+haruka_wav/Amatsume_Akira/AK020021.wav|1|あはー、ごめんね初佳お姉ちゃん。よくわかんない。
+yosuga_wav/Kasugano_Sora/SR020253.wav|0|うっ...
+haruka_wav/Kuranaga_Kozue/KO021558.wav|5|彼女だったらいいんですか！？
+yosuga_wav/Migiwa_Kazuha/KA020408.wav|3|そうかもー！　じゃないでしょ？
+yosuga_wav/Amatsume_Akira/AK020609.wav|1|んっ..ちゅっ..んっ..んはぁ..美味し～い！
+yosuga_wav/Migiwa_Kazuha/KA040366.wav|3|まったくもう、落ち着きなさいよね..
+haruka_wav/Ifukube_Yahiro/YH010928.wav|6|ちっ、仕方ねぇな..はぁむ。
+yosuga_wav/Amatsume_Akira/AK020168.wav|1|ここで晩ご飯作るんだよ。
+yosuga_wav/Kuranaga_Kozue/KO010229.wav|5|えっ....
+yosuga_wav/Yorihime_Nao/NO030178.wav|2|それじゃ、ありがとね、はるちゃん。
+yosuga_wav/Migiwa_Kazuha/KA040067.wav|3|どうして驚くんですか？
+haruka_wav/Kuranaga_Kozue/KO021087.wav|5|はい。そうしてもらえると助かります。
+haruka_wav/Ifukube_Yahiro/YH010932.wav|6|あむ..れろん..痛くても感じるとは..ちゅ..男は不思議なトコを持ってるんだな..んりゅ..
+yosuga_wav/Yorihime_Nao/NO030792.wav|2|怖かったら、すぐに顔上げていいからねっ。
+yosuga_wav/Migiwa_Kazuha/KA040187.wav|3|別に春日野君のせいじゃありませんから。それじゃ、さっさと再開しましょう。
+yosuga_wav/Yorihime_Nao/NO030696.wav|2|あ..初佳さん...もう戻って来たんですね。 私が、代わりましょうか？　せっかく海に来たんだし..
+haruka_wav/Ifukube_Yahiro/YH010761.wav|6|..何話せば良いか、わかんねえし..話が途切れたらキツイだろ..間が持たねえよ..
+yosuga_wav/Kasugano_Sora/SR011426.wav|0|好きなだけで..ハルの何もわかっていなかった。
+haruka_wav/Kuranaga_Kozue/KO020321.wav|5|って、うええぇぇっっ！？　か、春日野君！？
+yosuga_wav/Amatsume_Akira/AK021639.wav|1|あぎゃっ！？
+yosuga_wav/Kasugano_Sora/SR011515.wav|0|もっと静かにしてないと..ハル、溺れてたのに..
+yosuga_wav/Amatsume_Akira/AK021809.wav|1|でも..遠いんだね。だから、簡単に行くことも出来ない。
+yosuga_wav/Migiwa_Kazuha/KA030011.wav|3|瑛、頬にご飯粒が付いてるわよ？
+haruka_wav/Amatsume_Akira/AK000032.wav|1|んじゃ、ここの日陰とっぴー！
+yosuga_wav/Migiwa_Kazuha/KA020067.wav|3|べ、別に春日野君が悪いことをしたなんて思ってません..
+yosuga_wav/Amatsume_Akira/AK020709.wav|1|んとね、柔らかいって意味っぽいよ。もしハル君が固い麺が好きだったら、ばりかたー！　って言えばいいよ。
+yosuga_wav/Amatsume_Akira/AK020299.wav|1|あそこにはおじいちゃんがいるよ。それにあたしは天女目の子供なんだよっ？
+yosuga_wav/Migiwa_Kazuha/KA050099.wav|3|どうして私まで..用事も無いからいいけど..
+yosuga_wav/Nogisaka_Motoka/MT050317.wav|4|..へ？
+haruka_wav/Ifukube_Yahiro/YH011167.wav|6|..準備するから、ちょっと待て。
+haruka_wav/Ifukube_Yahiro/YH010558.wav|6|最初に変になったのはお前だー！
+haruka_wav/Kuranaga_Kozue/KO100103.wav|5|話題の振り逃げだけは、やめて欲しいんですけどー..
+yosuga_wav/Ifukube_Yahiro/YH020043.wav|6|アイツを放り出したら、ばあさんが化けて出てきやがるかもしれねーからだよ！！
+haruka_wav/Migiwa_Kazuha/KA000108.wav|3|あ、いえ.今のは忘れてください...
+yosuga_wav/Kasugano_Sora/SR030134.wav|0|...うん。
+haruka_wav/Ifukube_Yahiro/YH010303.wav|6|..あた..あたし..おかしく、ねーか..？
+haruka_wav/Kasugano_Sora/SR000519.wav|0|ふふっ、まだあげなーい。
+yosuga_wav/Yorihime_Nao/NO031263.wav|2|またまたー、謙遜しなくていいじゃない？　私、格好いい はるちゃん好きだよ。
+yosuga_wav/Migiwa_Kazuha/KA041545.wav|3|全然わかってないクセに。
+yosuga_wav/Nogisaka_Motoka/MT050361.wav|4|..そうよね..一瞬忘れちゃってたわ..
+yosuga_wav/Migiwa_Kazuha/KA020581.wav|3|それでは、お先に失礼します。
+yosuga_wav/Ifukube_Yahiro/YH020137.wav|6|とんでもねー事考えてやがるな。
+yosuga_wav/Kasugano_Sora/SR010478.wav|0|..ん..
+haruka_wav/Ifukube_Yahiro/YH010132.wav|6|手なんか抜いてねーよ。親心だ、親心。
+yosuga_wav/Amatsume_Akira/AK021479.wav|1|ハル君とここで泳ぐっ！　ゆーびきった！
+yosuga_wav/Kasugano_Sora/SR010985.wav|0|んっ..、イっちゃうっっ..ハルは...んぅぅっ..
+yosuga_wav/Yorihime_Nao/NO030871.wav|2|そして、春が来て、学校のクラスが変わるとまた新しい友達が出来て、はるちゃん達のことをだんだん忘れていく。
+haruka_wav/Kuranaga_Kozue/KO021073.wav|5|今まであえて考えないようにしていた不安が頭をもたげます。
+yosuga_wav/Kuranaga_Kozue/KO010145.wav|5|ですね、暑さで傷んじゃうかもしれないし。
+haruka_wav/Kasugano_Sora/SR000215.wav|0|私が居たら..一緒に謝れたのかな...
+yosuga_wav/Kasugano_Sora/SR011378.wav|0|今いる場所も、どこに行こうとしているのかも、わからない。
+haruka_wav/Ifukube_Yahiro/YH011257.wav|6|うわ..こんなに出されてたのか、あたしは..
+haruka_wav/Kuranaga_Kozue/KO000107.wav|5|今は違うんです。出来るイケメンさんは、人気がないところで待っててくれるんです。こっそり偶然を装って持って行きやすいように
+yosuga_wav/Kuranaga_Kozue/KO010203.wav|5|私が、騒いじゃったせいで..穹さんが...
+haruka_wav/Kuranaga_Kozue/KO021536.wav|5|そ、それは..あれだけ春日野君に触れられたら....
+haruka_wav/Ifukube_Yahiro/YH010080.wav|6|お前の印象だよ。他人との接触は避けるタイプだと思ってた。
+yosuga_wav/Kasugano_Sora/SR011265.wav|0|ハルっ..キスしてっ..んちゅっ..んんんんぅぅ！！
+yosuga_wav/Amatsume_Akira/AK021700.wav|1|んっ？　くんくん、珈琲屋さん？
+haruka_wav/Kasugano_Sora/SR001412.wav|0|もっと気持ちよくなって..ハルの好きにしていいから..
+yosuga_wav/Kasugano_Sora/SR010444.wav|0|病院で..暇だったから。
+yosuga_wav/Migiwa_Kazuha/KA041075.wav|3|なっ、何ですって..
+yosuga_wav/Migiwa_Kazuha/KA020464.wav|3|私も、失礼します。
+yosuga_wav/Nogisaka_Motoka/MT051018.wav|4|そ、そっか、家の事はみんな、悠くんがしてるんだもんね。
+yosuga_wav/Yorihime_Nao/NO031877.wav|2|...そんな私に..はるちゃんの気持ちを受け取る資格なんてなかったんだよね？
+yosuga_wav/Yorihime_Nao/NO030080.wav|2|ま、うるさい以外は、面倒見も良いし悪いヤツじゃないと思うから、よろしくしてあげてね。
+yosuga_wav/Nogisaka_Motoka/MT051151.wav|4|うあ..おっぱいの間から、おちんちん見えてる..ちょっとこれ、エロ過ぎかも..
+yosuga_wav/Yorihime_Nao/NO031247.wav|2|この気持ち..大事にするね。
+yosuga_wav/Migiwa_Kazuha/KA040386.wav|3|散々だったのはこっちです！　パンツなんて言って、水着なんだから濡れて良い物でしょ！？
+yosuga_wav/Amatsume_Akira/AK021172.wav|1|ハル君も一緒に入りなよ？
+yosuga_wav/Yorihime_Nao/NO020130.wav|2|ゆっくり帰ってるから、急がなくてもいいよ。
+yosuga_wav/Migiwa_Kazuha/KA000007.wav|3|えっ！？　何で私が！？
+haruka_wav/Yorihime_Nao/NO100026.wav|2|って、巨乳って書くな！！
+yosuga_wav/Amatsume_Akira/AK010009.wav|1|あはー、じゃ、また改めてよろしくねっ。
+yosuga_wav/Nogisaka_Motoka/MT051041.wav|4|食べるからっ！　いいから今はあっち行っててよぉ～～。
+yosuga_wav/Yorihime_Nao/NO031640.wav|2|んっ..ちゅっ..ありがとう...
+yosuga_wav/Yorihime_Nao/NO030820.wav|2|...う..うん...
+yosuga_wav/Yorihime_Nao/NO010284.wav|2|穹ちゃんを連れてどっか行ったり、勝手にいなくなったり..しないでね。
+yosuga_wav/Nogisaka_Motoka/MT020036.wav|4|保存終了～！　写真ってのは、お澄ましして撮るのが一番つまんないのよ。あとで、携帯に転送してあげるね。
+haruka_wav/Ifukube_Yahiro/YH010576.wav|6|誰の、何の、祝いだっつんだよ！
+yosuga_wav/Ifukube_Yahiro/YH050166.wav|6|バレたらテメーの責任だぞ？
+yosuga_wav/Kasugano_Sora/SR030279.wav|0|ハルから..置いて行かれる私の気持ちが！！
+haruka_wav/Nogisaka_Motoka/MT020022.wav|4|あは、あははは..そ、そんな～。これぐらい大したことじゃありませんよ、お嬢様～。
+haruka_wav/Migiwa_Kazuha/KA100061.wav|3|そうでしたか、いつもすみません。
+haruka_wav/Kasugano_Sora/SR001341.wav|0|..ねぇハル..
+yosuga_wav/Yorihime_Nao/NO020156.wav|2|それじゃ、私はここで。
+yosuga_wav/Kasugano_Sora/SR040066.wav|0|..バカ？
+haruka_wav/Kasugano_Sora/SR000988.wav|0|ふんっ..ハルの意地悪。 じゃんけんぐらい、負けてくれてもよかったのに。
+haruka_wav/Migiwa_Kazuha/KA020083.wav|3|そうだ。でしたらお二人にこれを差し上げます。
+haruka_wav/Ifukube_Yahiro/YH010490.wav|6|いらねぇ。もう醒めちまったよ。
+yosuga_wav/Amatsume_Akira/AK020476.wav|1|あ、ハル君、電話番号交換しよっ？　メールは送れないけど、たまに電話するね。
+yosuga_wav/Amatsume_Akira/AK010180.wav|1|ありがと、穹ちゃん。じゃ、お借りしま～す。
+haruka_wav/Migiwa_Kazuha/KA020015.wav|3|......最低。
+yosuga_wav/Yorihime_Nao/NO030952.wav|2|そうねっ。
+yosuga_wav/Amatsume_Akira/AK020098.wav|1|仲間仲間っ！
+yosuga_wav/Yorihime_Nao/NO020115.wav|2|ふふっ、可愛い夢ね。
+yosuga_wav/Amatsume_Akira/AK040208.wav|1|はいはーい！　あたしも大丈夫だよー。
+yosuga_wav/Nogisaka_Motoka/MT051145.wav|4|悠くんは、何もしなくて良いからね？
+yosuga_wav/Kasugano_Sora/SR011039.wav|0|..おはよう。
+yosuga_wav/Nogisaka_Motoka/MT051619.wav|4|け、結婚！？
+yosuga_wav/Migiwa_Kazuha/KA020252.wav|3|いやぁぁっ！！　やめてぇぇっ！！
+yosuga_wav/Kuranaga_Kozue/KO010189.wav|5|なっ..なに、なんなの..？
+yosuga_wav/Nogisaka_Motoka/MT050653.wav|4|みんな揃って、何の悪巧み？
+haruka_wav/Kasugano_Sora/SR030045.wav|0|ハルが..歌いたいなら..別にいいけど...
+yosuga_wav/Migiwa_Kazuha/KA041202.wav|3|あっ、瑛..
+haruka_wav/Ifukube_Yahiro/YH011023.wav|6|....激しくしすぎだ、バカ....
+yosuga_wav/Nogisaka_Motoka/MT050038.wav|4|ばっ、バカ！　そんなことないってば！
+yosuga_wav/Nogisaka_Motoka/MT051384.wav|4|いい加減な気持ちで付き合ったら、傷つけてしまう。
+haruka_wav/Kuranaga_Kozue/KO110001.wav|5|今日は皆さんに大切なお知らせがあります！
+yosuga_wav/Amatsume_Akira/AK020499.wav|1|古いのは、江戸時代の終わり頃って、おじいちゃんが言ってたよ。
+yosuga_wav/Migiwa_Kazuha/KA040371.wav|3|遊んでばかりいないで、ちゃんと掃除しなさい！
+yosuga_wav/Migiwa_Kazuha/KA041519.wav|3|お..おはよう..
+yosuga_wav/Nogisaka_Motoka/MT050351.wav|4|ホストが良いって言ってるんだから、遠慮しなくていいのよ。
+haruka_wav/Kuranaga_Kozue/KO020845.wav|5|そ、そうですね。それがいいと思います。
+haruka_wav/Kuranaga_Kozue/KO020459.wav|5|はぁ～....
+haruka_wav/Ifukube_Yahiro/YH011177.wav|6|んっ、すげぇ..おっぱいが押しのけられる..ちっとは固くなって来たか？
+haruka_wav/Amatsume_Akira/AK000174.wav|1|いいって、気にしないで。二人でたっぷりチョーラブラブしてきてねっ！
+haruka_wav/Yorihime_Nao/NO100017.wav|2|いい加減なノリで生きてるくせに。
+yosuga_wav/Kasugano_Sora/SR020142.wav|0|むっ！？
+yosuga_wav/Yorihime_Nao/NO031861.wav|2|私は一歩前に足を踏み出す。
+haruka_wav/Kasugano_Sora/SR000076.wav|0|..ねぇ..今日は一緒に寝ていい..？
+yosuga_wav/Migiwa_Kazuha/KA040087.wav|3|んもう、とってつけたみたいに拍手して。ちょっと寝てなかった？
+yosuga_wav/Yorihime_Nao/NO031335.wav|2|惜しかったなぁ..ホント。
+haruka_wav/Kasugano_Sora/SR000555.wav|0|あ...
+haruka_wav/Nogisaka_Motoka/MT020048.wav|4|昨日は送ってくれてありがとね～。悠くんのおかげでちゃんと自分のベッドで寝ることができたよ～。
+yosuga_wav/Amatsume_Akira/AK021103.wav|1|んぅぅぅっ..はあぁぁぁぁぁぁぁぁぁぁぁぁ！！！
+yosuga_wav/Migiwa_Kazuha/KA040082.wav|3|そういう事じゃありませんっ！
+yosuga_wav/Kasugano_Sora/SR011620.wav|0|んっちゅ..ハル..イっていいよ..んっ..ちゅっ..
+haruka_wav/Amatsume_Akira/AK000090.wav|1|だったら、ハル君達を遠くから見てても楽しくないよ？
+yosuga_wav/Kasugano_Sora/SR040028.wav|0|それは嫌。
+yosuga_wav/Yorihime_Nao/NO030312.wav|2|で、性懲りもなく、あんたは付きまとってんだ？
+haruka_wav/Ifukube_Yahiro/YH011156.wav|6|お前が、その役をするってのか？
+haruka_wav/Ifukube_Yahiro/YH110015.wav|6|..やりにくいな...あ、そうだった、なんかしりとりしてやがったな。
+yosuga_wav/Amatsume_Akira/AK020877.wav|1|ハル君は食べないの？
+yosuga_wav/Amatsume_Akira/AK020767.wav|1|だから、あたしにとってハル君は特別なんだよ。
+yosuga_wav/Yorihime_Nao/NO020103.wav|2|アンタもこれをお皿に移すの手伝いなさいよ！！
+haruka_wav/Kuranaga_Kozue/KO020443.wav|5|春日野君の名を騙る不逞の輩は、そのままプールの底に沈んでてくださいっ！！
+yosuga_wav/Amatsume_Akira/AK020434.wav|1|ぴとっ。
+haruka_wav/Kuranaga_Kozue/KO020586.wav|5|えっ！？　それってどういう..
+yosuga_wav/Kasugano_Sora/SR010196.wav|0|そんな私は..もしかしたら邪魔な存在なの..？
+yosuga_wav/Yorihime_Nao/NO031824.wav|2|..何？
+haruka_wav/Kasugano_Sora/SR001358.wav|0|はぁはぁっ..優しい..お腹からじんわりと気持ちよさが広がっていくの..
+haruka_wav/Kasugano_Sora/SR020049.wav|0|ムッ..それは嫌。
+yosuga_wav/Migiwa_Kazuha/KA040849.wav|3|な、何言ってるのよ..
+yosuga_wav/Amatsume_Akira/AK022179.wav|1|？
+yosuga_wav/Migiwa_Kazuha/KA040955.wav|3|こ、こんなのつまらないわっ..せっかく来たんだからお買い物しましょ！
+yosuga_wav/Migiwa_Kazuha/KA041449.wav|3|くふ..はぁ、はぁ..あなたばっかり、ずるいわ..
+haruka_wav/Nogisaka_Motoka/MT100052.wav|4|わっ、私のこと忘れないでね！　ちゃんと出てるから！！
+haruka_wav/Kasugano_Sora/SR000924.wav|0|壊れちゃうっ..ああんっ..私のアソコがぁぁっ！
+yosuga_wav/Amatsume_Akira/AK020994.wav|1|んふっ..んぅぅっ..んっ..
+yosuga_wav/Amatsume_Akira/AK000101.wav|1|二拝・二拍手・一拝とか言われることもあるみたいだけど、 要はやり方と、気持ちでいいんじゃないかな。
+yosuga_wav/Migiwa_Kazuha/KA030012.wav|3|えっ..私が？　....んっ...
+haruka_wav/Yorihime_Nao/NO000001.wav|2|はるちゃん...
+haruka_wav/Migiwa_Kazuha/KA100080.wav|3|またお会いしましょうね。
+haruka_wav/Nogisaka_Motoka/MT030017.wav|4|あ、みんなは飲み物おかわりいらない？
+yosuga_wav/Amatsume_Akira/AK021884.wav|1|じゃあ、お小遣い今から貯めておこう！
+haruka_wav/Amatsume_Akira/AK020131.wav|1|ねえねえ、カズちゃん。 せっかくだから、あたしたちで脱がしてあげよっか！
+yosuga_wav/Yorihime_Nao/NO000087.wav|2|そうかな？　あ～、でも都会の人たちはみんな電車とかバスに乗って通学するんだっけ？
+yosuga_wav/Nogisaka_Motoka/MT051333.wav|4|......わかった。悠くんがしたいなら、繋ご。
+yosuga_wav/Amatsume_Akira/AK020833.wav|1|みんなと一緒にいられるだけで、あたしは楽しいよ。 人が集まるだけで、色んな事が起きるし。
+haruka_wav/Kasugano_Sora/SR001426.wav|0|っ..んあぁっ！！　あっ、ああっ！！　あはぁぁぁぁっ！！
+yosuga_wav/Migiwa_Kazuha/KA020110.wav|3|べ、別に私は参加したい訳じゃありません！！
+haruka_wav/Ifukube_Yahiro/YH010271.wav|6|..にょめの、クセに..からかい、やがって..
+haruka_wav/Amatsume_Akira/AK000040.wav|1|結局二人はらぶーって事になれてよかったじゃん☆
+haruka_wav/Kuranaga_Kozue/KO021190.wav|5|いえ、そんなことは.. それより春日野君、穹さんと何かあったんですか？
+haruka_wav/Kasugano_Sora/SR000406.wav|0|んぐっ..あぅっっ..んっ..やだ、強く触っちゃ..
