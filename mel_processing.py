@@ -5,6 +5,7 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 import torch.utils.data
+from torch.cuda.amp import autocast
 import numpy as np
 import librosa
 import librosa.util as librosa_util
