@@ -3,11 +3,11 @@
     "log_interval": 200,
     "eval_interval": 1000,
     "seed": 1234,
-    "epochs": 20000,
+    "epochs": 10000,
     "learning_rate": 2e-4,
     "betas": [0.8, 0.99],
     "eps": 1e-9,
-    "batch_size": 64,
+    "batch_size": 24,
     "fp16_run": true,
     "lr_decay": 0.999875,
     "segment_size": 8192,
@@ -17,9 +17,9 @@
     "c_kl": 1.0
   },
   "data": {
-    "training_files":"filelists/ljs_audio_text_train_filelist.txt.cleaned",
-    "validation_files":"filelists/ljs_audio_text_val_filelist.txt.cleaned",
-    "text_cleaners":["english_cleaners2"],
+    "training_files":"filelists/train_filelist.txt.cleaned",
+    "validation_files":"filelists/val_filelist.txt.cleaned",
+    "text_cleaners":["japanese_cleaners2"],
     "max_wav_value": 32768.0,
     "sampling_rate": 22050,
     "filter_length": 1024,
@@ -29,7 +29,7 @@
     "mel_fmin": 0.0,
     "mel_fmax": null,
     "add_blank": true,
-    "n_speakers": 0,
+    "n_speakers": 7,
     "cleaned_text": true
   },
   "model": {
@@ -47,6 +47,17 @@
     "upsample_initial_channel": 512,
     "upsample_kernel_sizes": [16,16,4,4],
     "n_layers_q": 3,
-    "use_spectral_norm": false
-  }
+    "use_spectral_norm": false,
+    "gin_channels": 256
+  },
+  "speakers": [
+    "\u6625\u65e5\u91ce\u7a79",
+    "\u5929\u5973\u76ee\u745b",
+    "\u4f9d\u5a9b\u5948\u7dd2",
+    "\u6e1a\u4e00\u8449",
+    "\u4e43\u6728\u5742\u521d\u4f73",
+    "\u5009\u6c38\u68a2",
+    "\u4f0a\u798f\u90e8\u3084\u3072\u308d"
+    ],
+  "symbols": ["_", ",", ".", "!", "?", "-", "A", "E", "I", "N", "O", "Q", "U", "a", "b", "d", "e", "f", "g", "h", "i", "j", "k", "m", "n", "o", "p", "r", "s", "t", "u", "v", "w", "y", "z", "\u0283", "\u02a7", "\u2193", "\u2191", "\u02a6"," "]
 }

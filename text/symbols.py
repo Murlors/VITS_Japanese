@@ -1,5 +1,3 @@
-""" from https://github.com/keithito/tacotron """
-
 '''
 Defines the set of symbols used in text input to the model.
 '''
@@ -20,6 +18,12 @@ _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧʦ↓↑ '
 _pad        = '_'
 _punctuation = ',.!?…~'
 _letters = 'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㄲㄸㅃㅆㅉㅏㅓㅗㅜㅡㅣㅐㅔ '
+'''
+
+'''# chinese_cleaners
+_pad        = '_'
+_punctuation = '，。！？—…'
+_letters = 'ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦㄧㄨㄩˉˊˇˋ˙ '
 '''
 
 # Export all symbols:
