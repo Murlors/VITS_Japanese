@@ -11,7 +11,7 @@ _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧ↓↑ '
 # japanese_cleaners2
 _pad        = '_'
 _punctuation = ',.!?-'
-_letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧʦ↓↑ '
+_letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧ↓↑ʦ '
 
 
 '''# korean_cleaners
