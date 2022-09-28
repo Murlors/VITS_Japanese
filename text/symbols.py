@@ -32,6 +32,18 @@ _punctuation = ',.!?-~…'
 _letters = 'AEINOQUabdefghijklmnoprstuvwyzʃʧʦɯɹəɥ⁼ʰ`→↓↑ '
 '''
 
+'''# sanskrit_cleaners
+_pad        = '_'
+_punctuation = '।'
+_letters = 'ँंःअआइईउऊऋएऐओऔकखगघङचछजझञटठडढणतथदधनपफबभमयरलळवशषसहऽािीुूृॄेैोौ्ॠॢ '
+'''
+
+'''# cjks_cleaners
+_pad        = '_'
+_punctuation = ',.!?-~…'
+_letters = 'NQabdefghijklmnopstuvwxyzʃʧʥʦɯɹəɥçɸɾβŋɦː⁼ʰ`^#*=→↓↑ '
+'''
+
 # Export all symbols:
 symbols = [_pad] + list(_punctuation) + list(_letters)
 
